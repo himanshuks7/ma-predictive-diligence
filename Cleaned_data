@@ -1,0 +1,1456 @@
+ID,Parent Company,Acquisition Year,Acquisition Month,Acquired Company,Business,Country,Acquisition Price,Category,Derived Products,Deal_Scale_Tier,Sector_Congestion_Index,Deal_Status
+1,APPLE,1988,Mar,Network Innovations,Software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+2,APPLE,1988,Jun,Orion Network Systems,Computer Software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+3,APPLE,1988,Jun,Styleware,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+4,APPLE,1988,Jul,Nashoba Systems,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+5,APPLE,1989,Jan,Coral Software,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+6,APPLE,1997,Feb,NeXT,Unix-like hardware and software platform,-,404000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+7,APPLE,1997,Sep,Power Computing Corporation,Macintosh clones,-,110000000.0,-,-,Small-Cap,1.0,COMPLETED
+8,APPLE,1999,Jan,Xemplar Education,Software,-,4926000.0,-,-,Small-Cap,1.0,COMPLETED
+9,APPLE,1999,Nov,Raycer Graphics,Computer graphic chips,-,15000000.0,-,-,Small-Cap,1.0,COMPLETED
+10,APPLE,2000,Jan,NetSelector,Internet software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+11,APPLE,2000,Apr,Astarte-DVD Authoring Software,Software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+12,APPLE,2000,-,SoundJam MP,Software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+13,APPLE,2001,-,Bluefish Labs,Productivity software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+14,APPLE,2001,May,bluebuzz,Internet service provider (ISP),-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+15,APPLE,2001,Jul,Spruce Technologies,Graphics software,-,14900000.0,-,-,Small-Cap,1.0,COMPLETED
+16,APPLE,2001,Dec,PowerSchool,Online info systems services,-,66100000.0,-,-,Small-Cap,1.0,COMPLETED
+17,APPLE,2002,Feb,Nothing Real,Special effects software,-,15000000.0,-,-,Small-Cap,1.0,COMPLETED
+18,APPLE,2002,Apr,Zayante,FireWire chips and software,-,13000000.0,-,-,Small-Cap,1.0,COMPLETED
+19,APPLE,2002,Jun,Silicon Grail Corp-Chalice,Digital effects software,-,20000000.0,-,-,Small-Cap,1.0,COMPLETED
+20,APPLE,2002,Jun,Propel Software,internet and network optimization for wireless carriers,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+21,APPLE,2002,Jun,Prismo Graphics,Special-effects titling software for film and video,-,20000000.0,-,-,Small-Cap,1.0,COMPLETED
+22,APPLE,2002,Jul,Emagic,Music production software,-,30000000.0,-,-,Small-Cap,1.0,COMPLETED
+23,APPLE,2005,Mar,SchemaSoft,Software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+24,APPLE,2005,Apr,FingerWorks,Gesture recognition company,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+25,APPLE,2006,Oct,Silicon Color,Software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+26,APPLE,2006,Dec,Proximity,Software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+27,APPLE,2008,Apr,P.A. Semi,Semiconductors,-,278000000.0,-,-,Mega-Deal,1.0,COMPLETED
+28,APPLE,2009,Jul,Placebase,Maps,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+29,APPLE,2009,Dec,Lala.com,Music streaming,-,17000000.0,-,-,Small-Cap,1.0,COMPLETED
+30,APPLE,2010,Jan,Quattro Wireless,Mobile advertising,-,275000000.0,-,-,Mega-Deal,1.0,COMPLETED
+31,APPLE,2010,Apr,Intrinsity,Semiconductors,-,121000000.0,-,-,Small-Cap,1.0,COMPLETED
+32,APPLE,2010,Apr,Siri,Voice control software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+33,APPLE,2010,May,Gipsy Moth Studios,Application Regionalization Firm,-,12000000.0,-,-,Small-Cap,1.0,COMPLETED
+34,APPLE,2010,Jul,Poly9,Web-based mapping,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+35,APPLE,2010,Sep,Polar Rose,Facial recognition,-,29000000.0,-,-,Small-Cap,1.0,COMPLETED
+36,APPLE,2010,Sep,IMSense,High-dynamic-range (HDR) photography,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+37,APPLE,2011,Aug,C3 Technologies,3D mapping,-,267000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+38,APPLE,2011,Dec,Anobit,Flash memory,-,500000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+39,APPLE,2012,Feb,Chomp,App search engine,-,50000000.0,-,-,Small-Cap,1.0,COMPLETED
+40,APPLE,2012,Jun,Redmatica,Audio,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+41,APPLE,2012,Jul,AuthenTec,PC and mobile security products,-,356000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+42,APPLE,2012,Sep,Particle,HTML5 Web app firm,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+43,APPLE,2013,-,Novauris Technologies,Speech recognition,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+44,APPLE,2013,-,OttoCat,Search engine,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+45,APPLE,2013,Mar,WiFiSlam,Indoor location,-,20000000.0,-,-,Small-Cap,1.0,COMPLETED
+46,APPLE,2013,Jul,Locationary,Maps,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+47,APPLE,2013,Jul,HopStop.com,Maps,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+48,APPLE,2013,Aug,Passif Semiconductor,Semiconductors,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+49,APPLE,2013,Aug,Matcha,Media discovery app,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+50,APPLE,2013,Aug,Embark,Maps,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+51,APPLE,2013,Aug,AlgoTrim,Mobile data compression[citation needed],-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+52,APPLE,2013,Oct,Cue,Personal assistant,-,50000000.0,-,-,Small-Cap,1.0,COMPLETED
+53,APPLE,2013,Nov,PrimeSense,Structured-light 3D scanners,-,360000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+54,APPLE,2013,Dec,Topsy,Analytics,-,200000000.0,-,-,Mega-Deal,1.0,COMPLETED
+55,APPLE,2013,Dec,BroadMap,Maps,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+56,APPLE,2013,Dec,Catch.com,Software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+57,APPLE,2013,Dec,Acunu,Database analytics,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+58,APPLE,2014,Jan,SnappyLabs,Photography software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+59,APPLE,2014,Feb,Burstly,Software testing,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+60,APPLE,2014,May,LuxVue Technology,microLED displays,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+61,APPLE,2014,Jun,Spotsetter,Social search engine,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+62,APPLE,2014,Jun,Swell,Music streaming,-,30000000.0,-,-,Small-Cap,1.0,COMPLETED
+63,APPLE,2014,Jun,BookLamp,Book analytics,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+64,APPLE,2014,Aug,Beats Electronics,"Headphones, music streaming (Beats Music)",-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+65,APPLE,2014,Sep,Prss,Digital magazine,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+66,APPLE,2014,-,Dryft,On-Screen Keyboard,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+67,APPLE,2015,Jan,Camel Audio,Audio plug-ins and sound libraries,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+68,APPLE,2015,Jan,Semetric,Music analytics,-,50000000.0,-,-,Small-Cap,1.0,COMPLETED
+69,APPLE,2015,Mar,FoundationDB,Database,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+70,APPLE,2015,Apr,LinX,Camera,-,20000000.0,-,-,Small-Cap,1.0,COMPLETED
+71,APPLE,2015,Apr,Coherent Navigation,GPS,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+72,APPLE,2015,May,Metaio,Augmented reality,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+73,APPLE,2015,Sep,Mapsense,Mapping visualization and data collection,-,27500000.0,-,-,Small-Cap,1.0,COMPLETED
+74,APPLE,2015,Sep,VocalIQ,Speech technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+75,APPLE,2015,Sep,Perceptio,"Machine learning, Image recognition",-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+76,APPLE,2015,Nov,Faceshift,Realtime Motion Capture,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+77,APPLE,2016,Jan,Emotient,Emotion recognition,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+78,APPLE,2016,Jan,LearnSprout,Education technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+79,APPLE,2016,Jan,Flyby Media,Augmented reality,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+80,APPLE,2016,Feb,LegbaCore,Platform security,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+81,APPLE,2016,Aug,Turi,Machine learning,-,200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+82,APPLE,2016,Aug,Gliimpse,Personal health info collection company,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+83,APPLE,2016,Sep,Tuplejump,Machine learning,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+84,APPLE,2016,Dec,Indoor.io,Indoor mapping and navigation,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+85,APPLE,2017,Mar,Workflow,Automation and scripting app,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+86,APPLE,2017,May,Beddit,Sleep tracking hardware,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+87,APPLE,2017,May,Lattice Data,Artificial intelligence,-,200000000.0,-,-,Mega-Deal,1.0,COMPLETED
+88,APPLE,2017,Jun,SensoMotoric Instruments,Eye tracking hardware and software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+89,APPLE,2017,Sep,Vrvana,Augmented reality head-mounted display,-,30000000.0,-,-,Small-Cap,1.0,COMPLETED
+90,APPLE,2017,Sep,Regaind,Computer vision,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+91,APPLE,2017,Oct,init.ai,Messaging assistant,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+92,APPLE,2017,Oct,PowerbyProxi,Wireless charging,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+93,APPLE,2017,Nov,InVisage Technologies,Quantum dot-based image sensors,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+94,APPLE,2017,Dec,Pop Up Archive,tools for searching digital spoken words,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+95,APPLE,2017,Dec,Spektral,"Computer vision, real-time editing",-,30000000.0,-,-,Small-Cap,1.0,COMPLETED
+96,APPLE,2018,-,Laserlike,Machine learning,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+97,APPLE,2018,-,Silk Labs,"Artificial Intelligence, home monitoring",-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+98,APPLE,2018,-,Tueo Health,Asthma monitoring,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+99,APPLE,2017,Dec,Silicon Valley Data Science,"Data science, data engineering, analytics",-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+100,APPLE,2018,Jan,Buddybuild,"Continuous integration, debugging, and testing for mobile apps.",-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+101,APPLE,2018,Mar,Texture,Digital magazine subscription service,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+102,APPLE,2018,Aug,Akonia Holographics,Lenses for augmented reality glasses,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+103,APPLE,2018,Sep,Shazam,Music and Image recognition,-,400000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+104,APPLE,2018,Oct,Dialog Semiconductor (portions),Chip development,-,600000000.0,-,-,Mega-Deal,1.0,COMPLETED
+105,APPLE,2018,Oct,Asaii,Music analytics,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+106,APPLE,2018,Dec,Platoon,Artist development,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+107,APPLE,2019,Feb,PullString,Speech technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+108,APPLE,2019,Mar,Stamplay,Backend workflow development,-,5600000.0,-,-,Small-Cap,1.0,COMPLETED
+109,APPLE,2019,Jun,Drive.ai,Autonomous vehicles,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+110,APPLE,2019,Jul,Intel's smartphone modem business,Smartphone modems,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+111,APPLE,2019,Oct,IKinema,Motion capture,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+112,APPLE,2019,Dec,Spectral Edge,Low-light photography,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+113,APPLE,2020,Jan,Xnor.ai,"Edge computing, artificial intelligence",-,200000000.0,-,-,Mega-Deal,1.0,COMPLETED
+114,APPLE,2020,-,Scout FM,Podcast A.I.,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+115,APPLE,2020,Mar,Dark Sky,Weather forecasting and app,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+116,APPLE,2020,Apr,Voysis,Artificial intelligence/voice assistant,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+117,APPLE,2020,May,NextVR,Virtual reality events,-,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+118,APPLE,2020,Jun,Fleetsmith,Mobile device management,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+119,APPLE,2020,Jul,Mobeewave,Payments startup,-,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+120,APPLE,2020,Aug,Camerai,AR,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+121,APPLE,2020,Aug,Spaces,VR startup,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+122,APPLE,2021,Jan,Curious AI,Core AI startup,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+123,APPLE,2021,Aug,Primephonic,classical music streaming service,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+124,TWITTER,2008,Jul,Summize,Social search,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+125,TWITTER,2008,Nov,Values of n,Social software development,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+126,TWITTER,2009,Dec,Mixer labs,Location information engine,-,5170000.0,-,-,Small-Cap,1.0,COMPLETED
+127,TWITTER,2010,Apr,Atebits,Tweetie,United States,151000000.0,Mobile Twitter App (Ios),-,Small-Cap,0.0006920415224913495,COMPLETED
+128,TWITTER,2010,Apr,Cloudhopper,Mobile messaging,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+129,TWITTER,2010,Jun,Smallthought Systems,Databases and analytics,-,151000000.0,Analytics Tools,-,Small-Cap,0.0006920415224913495,COMPLETED
+130,TWITTER,2010,Dec,Fluther,Q&A service,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+131,TWITTER,2011,May,TweetDeck,Web and desktop client,United States,40000000.0,-,-,Small-Cap,1.0,COMPLETED
+132,TWITTER,2011,Jun,AdGrok,Advertising,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+133,TWITTER,2011,Jul,BackType,Social analytics,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+134,TWITTER,2011,Aug,Bagcheck,Social sharing and discovery,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+135,TWITTER,2011,Sep,Julpan,Real-time social search engine,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+136,TWITTER,2011,Nov,Whisper Systems,Mobile privacy and security,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+137,TWITTER,2012,Jan,Summify,Social news,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+138,TWITTER,2012,Jan,Dasient,Internet security,-,151000000.0,Revenue Team,-,Small-Cap,0.0006920415224913495,COMPLETED
+139,TWITTER,2012,Mar,Posterous,Blogging platform,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+140,TWITTER,2012,Apr,Hotspots.io,Social media intelligence,United States,151000000.0,Revenue Engineering Team,-,Small-Cap,0.0006920415224913495,COMPLETED
+141,TWITTER,2012,May,RestEngine,Personalized email marketing,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+142,TWITTER,2012,Jun,Nclud,Boutique design agency,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+143,TWITTER,2012,Aug,Clutch.IO,A/B tester,-,151000000.0,Design,-,Small-Cap,0.0006920415224913495,COMPLETED
+144,TWITTER,2012,Oct,Vine,Video sharing service,-,30000000.0,-,-,Small-Cap,1.0,COMPLETED
+145,TWITTER,2012,Oct,Cabana,Mobile app building software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+146,TWITTER,2013,Jan,Crashlytics,Crash reporting,-,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+147,TWITTER,2013,Feb,Bluefin Labs,Social TV analytics,United States,80000000.0,-,-,Small-Cap,1.0,COMPLETED
+148,TWITTER,2012,Nov,We Are Hunted,Music service,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+149,TWITTER,2013,May,Ubalo,Large-scale computing,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+150,TWITTER,2013,May,Lucky Sort,Big Data visualization,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+151,TWITTER,2013,Jun,Spindle Labs,Local discovery,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+152,TWITTER,2013,Aug,Locomatix,-,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+153,TWITTER,2013,Aug,Marakana,Training services,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+154,TWITTER,2013,Aug,Trendrr,Advertising solutions,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+155,TWITTER,2013,Sep,MoPub,Advertising solutions,-,350000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+156,TWITTER,2014,Mar,Mesagraph,Social TV,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+157,TWITTER,2014,Mar,SecondSync,Social TV,United Kingdom,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+158,TWITTER,2014,Apr,Cover,Android lockscreen app,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+159,TWITTER,2014,Apr,Gnip,Data reseller,-,134000000.0,-,-,Small-Cap,1.0,COMPLETED
+160,TWITTER,2014,Jun,Namo Media,Native mobile advertising,-,50000000.0,Mopub,-,Small-Cap,0.0006920415224913495,COMPLETED
+161,TWITTER,2014,Jun,TapCommerce,Mobile app install ads,-,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+162,TWITTER,2014,Jun,SnappyTV,Live clipping service,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+163,TWITTER,2014,Jul,CardSpring,Payment application platform,-,151000000.0,Commerce,-,Small-Cap,0.0006920415224913495,COMPLETED
+164,TWITTER,2014,Jul,Madbits,Deep learning,United States,151000000.0,Twitter Cortex,-,Small-Cap,0.001384083044982699,COMPLETED
+165,TWITTER,2014,Aug,Mitro,Password security,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+166,TWITTER,2014,Oct,Twitpic,Photo-sharing website,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+167,TWITTER,2015,Jan,ZipDial,Mobile marketing and analytics,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+168,TWITTER,2015,Feb,Niche,Advertising and software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+169,TWITTER,2015,Mar,Periscope,Live-video streaming,-,50100000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+170,TWITTER,2015,Apr,TenXer,Collaboration platform,-,50000000.0,-,-,Small-Cap,1.0,COMPLETED
+171,TWITTER,2015,Apr,TellApart,Advertising,-,479000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+172,TWITTER,2015,Jun,Whetlab,Machine learning,United States,151000000.0,Twitter Cortex,-,Small-Cap,0.001384083044982699,COMPLETED
+173,TWITTER,2015,Oct,Fastlane,Deployment services,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+174,TWITTER,2015,Oct,ZeroPush,Push notification services,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+175,TWITTER,2016,Apr,Peer,Employee and manager feedback tool,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+176,TWITTER,2016,Jun,Magic Pony Technology,"Advanced video upscaling, compression and enhancement",United Kingdom,150000000.0,-,-,Small-Cap,1.0,COMPLETED
+177,TWITTER,2016,Dec,"Yes, Inc",Social apps developer,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+178,TWITTER,2018,Jun,Smyte,Spam & fraud prevention service,United States,65000000.0,-,-,Small-Cap,1.0,COMPLETED
+179,TWITTER,2019,Apr,Highly,Highlight sharing application,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+180,TWITTER,2019,Jun,Fabula AI,Geometric deep learning & fake-news detection,United Kingdom,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+181,TWITTER,2019,Nov,Aiden.ai,AI-powered digital marketing,United Kingdom,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+182,TWITTER,2020,Feb,Chroma Labs,Visual Stories App,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+183,TWITTER,2020,May,CrossInstall,Programmatic interactive mobile ads at scale,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+184,TWITTER,2020,Dec,Squad,Real-time social video,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+185,TWITTER,2021,Jan,Breaker,Social podcasting,United States,151000000.0,Twitter Spaces,-,Small-Cap,0.0006920415224913495,COMPLETED
+186,TWITTER,2021,Jan,Ueno,Creative agency,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+187,TWITTER,2021,Jan,DriveScale,Storage Technology,United States,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+188,TWITTER,2021,Jan,Revue,Newsletter platform,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+189,AMAZON,1998,Apr,Bookpages,-,-,151000000.0,-,Amazon UK,Small-Cap,1.0,COMPLETED
+190,AMAZON,1998,Apr,Telebook,-,-,55000000.0,-,Amazon Germany,Small-Cap,1.0,COMPLETED
+191,AMAZON,1998,Apr,IMDb,-,-,55000000.0,-,IMDb,Small-Cap,1.0,COMPLETED
+192,AMAZON,1998,Aug,Junglee,-,-,250000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+193,AMAZON,1998,Aug,PlanetAll,-,-,280000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+194,AMAZON,1999,Apr,LiveBid.com,-,-,300000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+195,AMAZON,1999,Apr,Accept.com,-,-,101700000.0,-,-,Small-Cap,1.0,COMPLETED
+196,AMAZON,1999,Apr,Alexa Internet,-,-,250000000.0,-,Alexa Internet,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+197,AMAZON,1999,Apr,e-Niche Incorporated,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+198,AMAZON,1999,Oct,Convergence Corporation,-,-,23000000.0,-,-,Small-Cap,1.0,COMPLETED
+199,AMAZON,1999,Nov,Tool Crib of the North (Online and Catalog Sales Division),-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+200,AMAZON,1999,Nov,Back to Basics Toys,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+201,AMAZON,1999,Dec,Leep Technology Inc.,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+202,AMAZON,1999,-,MindCorps Incorporated,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+203,AMAZON,2001,Dec,Egghead Software,-,-,6100000.0,-,-,Small-Cap,1.0,COMPLETED
+204,AMAZON,2001,Dec,OurHouse.com,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+205,AMAZON,2004,Aug,Joyo.com,-,-,75000000.0,-,Amazon China,Small-Cap,1.0,COMPLETED
+206,AMAZON,2005,Apr,BookSurge,-,-,151000000.0,-,CreateSpace,Small-Cap,1.0,COMPLETED
+207,AMAZON,2005,Apr,Mobipocket,-,-,151000000.0,-,Mobipocket,Small-Cap,1.0,COMPLETED
+208,AMAZON,2005,Jul,CustomFlix,-,-,151000000.0,-,CreateSpace,Small-Cap,1.0,COMPLETED
+209,AMAZON,2005,-,smallparts.com,-,-,151000000.0,-,Amazon Business,Small-Cap,1.0,COMPLETED
+210,AMAZON,2006,Feb,Shopbop,-,-,151000000.0,-,Shopbop,Small-Cap,1.0,COMPLETED
+211,AMAZON,2006,Oct,TextPayMe,-,-,3000000.0,-,Amazon Payments,Small-Cap,1.0,COMPLETED
+212,AMAZON,2007,May,Digital Photography Review,-,-,151000000.0,-,Digital Photography Review,Small-Cap,1.0,COMPLETED
+213,AMAZON,2007,May,Brilliance Audio,-,-,151000000.0,-,Brilliance Audio,Small-Cap,1.0,COMPLETED
+214,AMAZON,2008,Jan,Withoutabox,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+215,AMAZON,2008,Jan,Audible,-,-,300000000.0,-,Audible,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+216,AMAZON,2008,Jun,Fabric.com,-,-,151000000.0,-,Fabric.com,Small-Cap,1.0,COMPLETED
+217,AMAZON,2008,Aug,AbeBooks,-,-,151000000.0,-,AbeBooks,Small-Cap,1.0,COMPLETED
+218,AMAZON,2008,Aug,Shelfari,-,-,151000000.0,-,Goodreads,Small-Cap,1.0,COMPLETED
+219,AMAZON,2008,Oct,Reflexive Entertainment,-,-,151000000.0,-,Reflexive Entertainment,Small-Cap,1.0,COMPLETED
+220,AMAZON,2008,Dec,Box Office Mojo,-,-,151000000.0,-,Box Office Mojo,Small-Cap,1.0,COMPLETED
+221,AMAZON,2009,Apr,Lexcycle,-,-,151000000.0,-,Amazon Kindle,Small-Cap,1.0,COMPLETED
+222,AMAZON,2009,Jun,SnapTell,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+223,AMAZON,2009,Nov,Zappos,-,-,1200000000.0,-,Zappos,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+224,AMAZON,2010,Feb,Touchco,-,-,151000000.0,-,Amazon Kindle,Small-Cap,1.0,COMPLETED
+225,AMAZON,2010,Jul,Woot,-,-,110000000.0,-,Woot,Small-Cap,1.0,COMPLETED
+226,AMAZON,2010,Sep,Amie Street,-,-,151000000.0,-,Songza,Small-Cap,1.0,COMPLETED
+227,AMAZON,2010,Oct,BuyVIP,-,-,100000000.0,-,BuyVIP,Small-Cap,1.0,COMPLETED
+228,AMAZON,2010,Nov,Quidsi,-,-,545000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+229,AMAZON,2010,Nov,Toby Press,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+230,AMAZON,2011,Jan,LoveFilm,-,-,312000000.0,-,Amazon Prime Video,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+231,AMAZON,2011,Jul,The Book Depository,-,-,151000000.0,-,Book Depository,Small-Cap,1.0,COMPLETED
+232,AMAZON,2011,Jul,Pushbutton,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+233,AMAZON,2011,Sep,Yap,-,-,151000000.0,-,Amazon Echo,Small-Cap,1.0,COMPLETED
+234,AMAZON,2011,Sep,Double Helix Games,-,-,151000000.0,-,Double Helix Games,Small-Cap,1.0,COMPLETED
+235,AMAZON,2012,Feb,Teachstreet,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+236,AMAZON,2012,Mar,Kiva Systems,-,-,775000000.0,-,Amazon Robotics,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+237,AMAZON,2012,Apr,Evi,-,-,26000000.0,-,Amazon Echo,Small-Cap,1.0,COMPLETED
+238,AMAZON,2012,Apr,Avalon Books,-,-,151000000.0,-,Amazon Publishing,Small-Cap,1.0,COMPLETED
+239,AMAZON,2012,Jul,UpNext,-,-,151000000.0,-,UpNext,Small-Cap,1.0,COMPLETED
+240,AMAZON,2013,Jan,IVONA Software,-,-,151000000.0,-,"Amazon Echo, Amazon Polly",Small-Cap,1.0,COMPLETED
+241,AMAZON,2013,Mar,Goodreads,-,-,151000000.0,-,Goodreads,Small-Cap,1.0,COMPLETED
+242,AMAZON,2013,May,Liquavista,-,-,151000000.0,-,Amazon Kindle,Small-Cap,1.0,COMPLETED
+243,AMAZON,2013,Oct,"TenMarks Education, Inc.",-,-,151000000.0,-,"TenMarks Education, Inc.",Small-Cap,1.0,COMPLETED
+244,AMAZON,2014,Apr,ComiXology,-,-,151000000.0,-,ComiXology,Small-Cap,1.0,COMPLETED
+245,AMAZON,2014,May,Amiato,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+246,AMAZON,2014,Aug,Twitch Interactive,-,-,970000000.0,-,Twitch Interactive,Mega-Deal,1.0,COMPLETED
+247,AMAZON,2014,Aug,Rooftop Media,-,-,151000000.0,-,Audible,Small-Cap,1.0,COMPLETED
+248,AMAZON,2014,Dec,GoodGame,-,-,151000000.0,-,Twitch Interactive,Small-Cap,1.0,COMPLETED
+249,AMAZON,2015,Jan,Annapurna Labs,-,-,350000000.0,-,Annapurna Labs,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+250,AMAZON,2015,Mar,2lemetry,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+251,AMAZON,2015,Apr,Shoefitr,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+252,AMAZON,2015,Apr,ClusterK,-,-,35000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+253,AMAZON,2015,Jul,AppThwack,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+254,AMAZON,2015,Sep,Elemental Technologies,-,-,500000000.0,-,AWS Elemental,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+255,AMAZON,2015,Sep,Safaba Translation Systems,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+256,AMAZON,2015,Sep,Biba Systems,-,-,151000000.0,-,Amazon Chime,Small-Cap,1.0,COMPLETED
+257,AMAZON,2015,Dec,Orbeus,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+258,AMAZON,2016,Jan,Colis Privé,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+259,AMAZON,2016,Feb,NICE,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+260,AMAZON,2016,Feb,Emvantage Payments,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+261,AMAZON,2016,Jul,Cloud9 IDE,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+262,AMAZON,2016,Aug,"Curse, Inc.",-,-,151000000.0,-,Curse LLC,Small-Cap,1.0,COMPLETED
+263,AMAZON,2016,Oct,Westland,-,-,151000000.0,-,Westland,Small-Cap,1.0,COMPLETED
+264,AMAZON,2016,Nov,Partpic,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+265,AMAZON,2017,Jan,harvest.ai,-,-,20000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+266,AMAZON,2017,Mar,Thinkbox Software,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+267,AMAZON,2017,Mar,Do.com,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+268,AMAZON,2017,Jun,Whole Foods Market,-,-,13700000000.0,-,Whole Foods Market,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+269,AMAZON,2017,Jul,Souq.com,-,-,580000000.0,-,Souq.com,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+270,AMAZON,2017,Jul,Graphiq,-,-,50000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+271,AMAZON,2017,Jul,GameSparks,-,-,10000000.0,-,GameSparks,Small-Cap,1.0,COMPLETED
+272,AMAZON,2017,Sep,Wing.ae,-,-,151000000.0,-,Souq.com,Small-Cap,1.0,COMPLETED
+273,AMAZON,2017,Oct,Body Labs,-,-,60000000.0,-,Body Labs,Small-Cap,1.0,COMPLETED
+274,AMAZON,2017,Nov,Goo Technologies,-,-,151000000.0,-,Amazon Sumerian,Small-Cap,1.0,COMPLETED
+275,AMAZON,2017,Nov,Dispatch,-,-,151000000.0,-,Amazon Scout,Small-Cap,1.0,COMPLETED
+276,AMAZON,2017,Dec,Blink Home,-,-,90000000.0,-,Blink Home,Small-Cap,1.0,COMPLETED
+277,AMAZON,2018,Jan,Sqrrl,-,-,40000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+278,AMAZON,2018,Feb,Ring,-,-,839000000.0,-,Ring,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+279,AMAZON,2018,Jun,PillPack,-,-,753000000.0,-,PillPack,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+280,AMAZON,2018,Aug,Tapzo,-,-,40000000.0,-,Amazon Pay,Small-Cap,1.0,COMPLETED
+281,AMAZON,2019,Jan,CloudEndure,-,-,250000000.0,-,Amazon Web Services,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+282,AMAZON,2019,Jan,TSO Logic,-,-,151000000.0,-,TSOLogic,Small-Cap,1.0,COMPLETED
+283,AMAZON,2019,Feb,Eero,-,-,97000000.0,-,Eero,Small-Cap,1.0,COMPLETED
+284,AMAZON,2019,Apr,Canvas Technology,-,-,151000000.0,-,Amazon Robotics,Small-Cap,1.0,COMPLETED
+285,AMAZON,2019,May,Sizmek Ad Server and Sizmek Dynamic Creative Optimization,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+286,AMAZON,2019,Jun,Bebo,-,-,25000000.0,-,Twitch Interactive,Small-Cap,1.0,COMPLETED
+287,AMAZON,2019,Jul,E8 Storage,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+288,AMAZON,2019,Sep,IGDB,-,-,151000000.0,-,Twitch Interactive,Small-Cap,1.0,COMPLETED
+289,AMAZON,2019,Sep,INLT,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+290,AMAZON,2020,Jun,Zoox,-,-,1200000000.0,-,-,Mega-Deal,1.0,COMPLETED
+291,AMAZON,2020,Dec,Wondery,-,-,151000000.0,-,Amazon Music,Small-Cap,1.0,COMPLETED
+292,AMAZON,2021,Jan,Umbra 3D,-,-,151000000.0,-,Amazon Robotics,Small-Cap,1.0,COMPLETED
+293,AMAZON,2021,May,Dbbest,-,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+294,AMAZON,2021,May,Metro-Goldwyn-Mayer,-,-,8450000000.0,-,Metro-Goldwyn-Mayer,Mega-Deal,1.0,COMPLETED
+295,AMAZON,2021,Jun,Art19,-,-,151000000.0,-,Amazon Music,Small-Cap,1.0,COMPLETED
+296,AMAZON,2021,Jun,Wickr,-,-,151000000.0,-,Amazon Web Services,Small-Cap,1.0,COMPLETED
+297,HP,1958,-,F.L. Moseley Company,Plotter,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+298,HP,1959,-,Boonton Radio,Flight test instrumentation,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+299,HP,1961,-,Sanborn Company,Medical equipment,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+300,HP,1962,Nov,Neely Enterprises,Sales/manufacturer's representative,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+301,HP,1965,-,F&M Scientific Corporation,Analytical chemistry,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+302,HP,1966,-,"Data Systems, Inc",Information technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+303,HP,1973,Jan,Hupe & Busch,Liquid Chromatography,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+304,HP,1985,Dec,"Cericor, Inc.",CAD - Logic Design,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+305,HP,1989,Jan,Eon Systems Inc.,Electronics,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+306,HP,1989,May,Apollo Computer,Computer manufacturer,-,476000000.0,-,-,Mega-Deal,1.0,COMPLETED
+307,HP,1989,Nov,Certain assets of Optotech Inc.,Disk drive,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+308,HP,1991,Jan,Applied Optoelectronic Tech,Automatic test equipment,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+309,HP,1991,Nov,Avantek,Transistor,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+310,HP,1991,Dec,ABB CADE,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+311,HP,1992,Sep,Colorado Memory Systems,Magnetic tape,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+312,HP,1992,Sep,French and German units of Leasametric,Company leasing,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+313,HP,1992,Oct,Computer systems from Texas Instruments,Computer systems,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+314,HP,1993,-,Ericsson Hewlett Packard Telecom (EHPT) 60% Ericsson and 40% Hewlett-Packard.,Telecoms,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+315,HP,1993,Apr,Four Pi Systems Corp.,Automatic test equipment,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+316,HP,-,-,Metrix Network Systems,Computer networking,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+317,HP,1993,Sep,BT&D Technologies,Electronics,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+318,HP,1993,Oct,EEsof Inc.,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+319,HP,1994,-,Versatest,Automatic test equipment,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+320,HP,1994,-,Canstar Systems (an Alcatel Canada Wire Inc division),Fibre Channel switch,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+321,HP,1995,Jun,CaLan Inc.,Automatic test equipment,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+322,HP,1995,Sep,Convex Computer,Computer manufacturer,-,150000000.0,-,-,Small-Cap,1.0,COMPLETED
+323,HP,1995,Dec,ElseWare Corp.,Computer programming,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+324,HP,1996,Feb,SecureWare Internet security division,Computer security,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+325,HP,1996,Jun,Graphics technology from Parametric Technology Corporation,Graphics hardware,-,9273000.0,-,-,Small-Cap,1.0,COMPLETED
+326,HP,1996,Jun,Division Inc.,Computer programming,-,6000000.0,-,-,Small-Cap,1.0,COMPLETED
+327,HP,1996,Jul,DP-Tek Development,Imaging,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+328,HP,1996,Aug,Trellis Software & Controls,Motion control,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+329,HP,1997,Mar,Vital Technology Pte Ltd,Investment,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+330,HP,1997,Apr,VeriFone,Electronic bill payment,-,1180000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+331,HP,1997,Jun,PROLIN,Information technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+332,HP,1997,Sep,Internet printing technology from ForeFront Group,Printing,-,2500000.0,-,-,Small-Cap,1.0,COMPLETED
+333,HP,1997,Nov,Nuview ManageX from Nuview Inc.,Business process management,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+334,HP,1997,Nov,Optimazation systems,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+335,HP,1998,Jan,Business related assets of Siltek,Information technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+336,HP,1998,Mar,Heartstream,Medical equipment,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+337,HP,1998,Jun,Computing & Measurement Systems,Computers,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+338,HP,1998,Oct,Scope Communications Inc.,Cable tester,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+339,HP,1998,Oct,"Open Skies, Inc.",Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+340,HP,1999,May,Printmountain,Printing,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+341,HP,1999,May,Telegra Corp,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+342,HP,1999,May,Transoft Networks,Storage area network,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+343,HP,1999,Jun,Dazel Corporation,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+344,HP,1999,Aug,Security Force Software,Computer security,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+345,HP,1999,Sep,Qosnetics,Information technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+346,HP,2001,Jan,Bluestone Software,Computer software,-,470000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+347,HP,2001,Aug,Comdisco Inc.,Information technology,-,610000000.0,-,-,Mega-Deal,1.0,COMPLETED
+348,HP,2001,Aug,Trinagy Inc.,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+349,HP,2001,Sep,StorageApps,Data storage,-,350000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+350,HP,2002,Mar,Indigo N.V,Printing service,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+351,HP,2002,May,Compaq,Personal computer,-,25000000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+352,HP,2003,May,Procter & Gamble IT,Information technology,-,3000000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+353,HP,2003,Jun,Ericsson IT,Information technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+354,HP,2003,Jul,PipeBeach,Communication software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+355,HP,-,-,Extreme Logic Inc.,Information technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+356,HP,-,-,Talking Blocks,Web service,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+357,HP,2003,Sep,SelectAccess assets of Baltimore Technologies,Computer security,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+358,HP,-,-,Persist Technology,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+359,HP,2004,Feb,Consera Software,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+360,HP,-,-,Triaton Gmbh,Information technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+361,HP,-,-,TruLogica,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+362,HP,2004,Apr,Novadigm Inc.,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+363,HP,2004,May,IT Infrastructure Management LLC(doing business as ManageOne),Information technology consulting,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+364,HP,2004,May,CEC Europe Service Management,Information technology consulting,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+365,HP,2004,Jun,Networking technology from Riverstone Networks,Computer networking,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+366,HP,2004,Oct,Synstar,Information technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+367,HP,2005,Jan,IT division of West LB AG,Information technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+368,HP,2005,Apr,Snapfish,Photo sharing,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+369,HP,-,-,CGNZ,Information technology consulting,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+370,HP,-,-,AppIQ,Data storage,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+371,HP,-,-,RLX Technologies,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+372,HP,2005,Nov,Scitex Vision,Printing service,-,230000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+373,HP,-,-,Trustgenix Inc.,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+374,HP,-,-,PIXACO,Online photo services,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+375,HP,2005,Dec,Peregrine Systems,Computer software,-,425000000.0,-,-,Mega-Deal,1.0,COMPLETED
+376,HP,-,-,OuterBay,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+377,HP,-,-,Silverwire,Imaging,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+378,HP,2006,Jun,The Technology Partners,Information technology consulting,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+379,HP,2006,Oct,VoodooPC,Computer manufacturer,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+380,HP,2006,Nov,Mercury Interactive,Computer software,-,4500000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+381,HP,-,-,Knightsbridge Solutions,Information management,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+382,HP,-,-,Bitfone Corp.,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+383,HP,-,-,Bristol Technology,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+384,HP,-,-,Polyserve,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+385,HP,-,-,Tabblo Inc.,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+386,HP,-,-,Arteis,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+387,HP,-,-,SPI Dynamic Inc.,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+388,HP,2007,Jul,Opsware,Computer software,-,1600000000.0,-,-,Mega-Deal,1.0,COMPLETED
+389,HP,-,-,Neoware,Thin client,-,214000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+390,HP,-,-,MacDermid ColorSpan Inc.,Printer manufacturer,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+391,HP,-,-,Atos Origin Middle East Group,Information technology consulting,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+392,HP,2008,Feb,EYP Mission Critical Facilities Inc.,Information technology consulting,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+393,HP,2008,Mar,NUR Macroprinters Ltd,Printer,-,457076000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+394,HP,2008,Mar,Exstream Software,Computer software,-,371000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+395,HP,-,-,TOWER Software,Computer software,-,101529000.0,-,-,Small-Cap,1.0,COMPLETED
+396,HP,-,-,Colubris Networks,Wireless networking,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+397,HP,2008,Aug,Electronic Data Systems,Information technology consulting,-,13900000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+398,HP,-,-,LeftHand Networks Inc.,Data storage,-,360000000.0,-,-,Mega-Deal,1.0,COMPLETED
+399,HP,2009,Aug,"IBRIX, Inc.",Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+400,HP,2010,Apr,3Com,Computer networking,-,2700000000.0,-,-,Mega-Deal,1.0,COMPLETED
+401,HP,2010,Jun,Melodeo,Computer software,-,30000000.0,-,-,Small-Cap,1.0,COMPLETED
+402,HP,2010,Jun,Phoenix Technologies,Computer software,-,12000000.0,-,-,Small-Cap,1.0,COMPLETED
+403,HP,2010,Jul,"Palm, Inc.",Smartphone manufacturer,-,1200000000.0,-,-,Mega-Deal,1.0,COMPLETED
+404,HP,2010,Aug,Stratavia,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+405,HP,2010,Sep,3PAR,Data Storage,-,2350000000.0,-,-,Mega-Deal,1.0,COMPLETED
+406,HP,2010,Sep,Fortify Software,Computer software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+407,HP,2010,Oct,ArcSight,Corporate computer security management,-,1500000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+408,HP,2011,Mar,"Vertica Systems, Inc.",Enterprise database software,-,350000000.0,-,-,Mega-Deal,1.0,COMPLETED
+409,HP,2011,Oct,Autonomy Corporation,Information management,-,11000000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+410,HP,2011,Dec,Hiflex,Information management,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+411,HP,2013,Feb,Memlane,Information technology,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+412,HP,2014,May,Shunra,Computer networking software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+413,HP,2014,Sep,Eucalyptus,Cloud computing software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+414,HP,2015,May,Voltage Security,Cloud security software,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+415,HP,2015,Feb,Aruba Networks,Mobile networking,-,151000000.0,-,-,Small-Cap,1.0,COMPLETED
+416,HP,2015,May,ConteXtream,Networking software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+417,HP,2016,Feb,Trilead,Data protection software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+418,HP,2016,May,RASA Networks,Network Performance and Analytics software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+419,HP,2016,Aug,SGI,Computer hardware,-,275000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+420,HP,-,-,Samsung's Printing Business,Printing and Imaging,South Korea,1050000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+421,HP,2017,May,SimpliVity,Hyperconverged Infrastructure,-,650000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+422,HP,2017,Jan,Cloud Cruiser,Cloud Cost Management and Optimization,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+423,HP,-,-,Nimble Storage,Flash and Hybrid Data Storage,-,1090000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+424,HP,2021,Feb,HyperX,Computer peripherals,-,425000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+425,HP,2021,Oct,Teradici,Remote desktop software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+426,GOOGLE,2001,Feb,Dejavue,Usenet,-,151000000.0,-,Google Groups,Mid-Market,1.0,COMPLETED
+427,GOOGLE,2001,Sep,Outride,Web search engine,-,151000000.0,-,Google Personalized Search,Mid-Market,1.0,COMPLETED
+428,GOOGLE,2003,Feb,Pyra Labs,Weblog software,-,151000000.0,-,Blogger,Mid-Market,1.0,COMPLETED
+429,GOOGLE,2003,Apr,Neotonic Software,Customer relationship management,-,151000000.0,-,"Google Groups, Gmail",Mid-Market,1.0,COMPLETED
+430,GOOGLE,2003,Apr,Applied Semantics,Online advertising,-,102000000.0,-,"AdSense, AdWords",Small-Cap,1.0,COMPLETED
+431,GOOGLE,2003,Sep,Kaltix,Web search engine,-,151000000.0,-,iGoogle,Mid-Market,1.0,COMPLETED
+432,GOOGLE,2003,Oct,Sprinks,Online advertising,-,151000000.0,-,"AdSense, AdWords",Mid-Market,1.0,COMPLETED
+433,GOOGLE,2003,Oct,Genius Labs,Blogging,-,151000000.0,-,Blogger,Mid-Market,1.0,COMPLETED
+434,GOOGLE,2004,May,Ignite Logic,HTML editor,-,151000000.0,-,Google Sites,Mid-Market,1.0,COMPLETED
+435,GOOGLE,2004,Jul,Picasa,Image organizer,-,151000000.0,-,"Picasa, Blogger",Mid-Market,1.0,COMPLETED
+436,GOOGLE,2004,Sep,ZipDash,Traffic analysis,-,151000000.0,-,Google Maps,Mid-Market,1.0,COMPLETED
+437,GOOGLE,2004,Oct,Where2,Map analysis,-,151000000.0,-,Google Maps,Mid-Market,1.0,COMPLETED
+438,GOOGLE,2004,Oct,Keyhole,Map analysis,-,151000000.0,-,"Google Maps, Google Earth",Mid-Market,1.0,COMPLETED
+439,GOOGLE,2005,Mar,Urchin Software Corporation,Web analytics,-,151000000.0,-,Google Analytics,Mid-Market,1.0,COMPLETED
+440,GOOGLE,2005,May,Dodgeball,Social networking service,-,151000000.0,-,Google Latitude,Mid-Market,1.0,COMPLETED
+441,GOOGLE,2005,Jul,Akwan Information Technologies,Search engines,-,151000000.0,-,Internet backbone,Mid-Market,1.0,COMPLETED
+442,GOOGLE,2005,Jul,Reqwireless,Mobile browser,-,151000000.0,-,Google Mobile,Mid-Market,1.0,COMPLETED
+443,GOOGLE,2005,Aug,Android,Mobile operating system,-,50000000.0,-,Android,Small-Cap,1.0,COMPLETED
+444,GOOGLE,2005,Nov,Skia,Graphics library,-,151000000.0,-,Skia,Mid-Market,1.0,COMPLETED
+445,GOOGLE,2005,Dec,Phatbits,Widget engine,-,151000000.0,-,Google Desktop,Mid-Market,1.0,COMPLETED
+446,GOOGLE,2005,Dec,allPAY,Mobile software,-,151000000.0,-,Google Mobile,Mid-Market,1.0,COMPLETED
+447,GOOGLE,2005,Dec,bruNET,Mobile software,-,151000000.0,-,Google Mobile,Mid-Market,1.0,COMPLETED
+448,GOOGLE,2006,Jan,dMarc Broadcasting,Advertising,-,102000000.0,-,AdSense,Small-Cap,1.0,COMPLETED
+449,GOOGLE,2006,Feb,Measure Map,Weblog software,-,151000000.0,-,Google Analytics,Mid-Market,1.0,COMPLETED
+450,GOOGLE,2006,Mar,Upstartle,Word processor,-,151000000.0,-,Google Docs,Mid-Market,1.0,COMPLETED
+451,GOOGLE,2006,Mar,@Last Software,3D modeling software,-,151000000.0,-,Google Sketchup,Mid-Market,1.0,COMPLETED
+452,GOOGLE,2006,Apr,Orion,Web search engine,-,151000000.0,-,Google Search,Mid-Market,1.0,COMPLETED
+453,GOOGLE,2006,Jun,2Web Technologies,Online spreadsheets,-,151000000.0,-,Google Spreadsheet,Mid-Market,1.0,COMPLETED
+454,GOOGLE,2006,Aug,Neven Vision Germany,Computer vision,-,151000000.0,-,"Picasa, Google Goggles",Mid-Market,1.0,COMPLETED
+455,GOOGLE,2006,Oct,YouTube,Video sharing,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+456,GOOGLE,2006,Oct,JotSpot,Web application,-,151000000.0,-,Google Sites,Mid-Market,1.0,COMPLETED
+457,GOOGLE,2006,Dec,Endoxon,Mapping,-,28000000.0,-,Google Maps,Small-Cap,1.0,COMPLETED
+458,GOOGLE,2007,Feb,Adscape,In-game advertising,-,23000000.0,-,AdSense,Small-Cap,1.0,COMPLETED
+459,GOOGLE,2007,Mar,Trendalyzer,Statistical software,-,151000000.0,-,Google Analytics,Mid-Market,1.0,COMPLETED
+460,GOOGLE,2007,May,Crusix,Social networking service,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+461,GOOGLE,2007,Apr,Tonic Systems,Presentation program,-,151000000.0,-,Google Docs,Mid-Market,1.0,COMPLETED
+462,GOOGLE,2007,Apr,Marratech,Videoconferencing,-,15000000.0,-,"Google Talk, Google Hangouts",Small-Cap,1.0,COMPLETED
+463,GOOGLE,2007,Apr,DoubleClick,Online advertising,-,151000000.0,-,AdSense,Mid-Market,1.0,COMPLETED
+464,GOOGLE,2007,May,GreenBorder,Computer security,-,151000000.0,-,Google Chrome,Mid-Market,1.0,COMPLETED
+465,GOOGLE,2007,Jun,Panoramio,Photo sharing,-,151000000.0,-,Panoramio,Mid-Market,1.0,COMPLETED
+466,GOOGLE,2007,Jun,FeedBurner,Web feed,-,100000000.0,-,FeedBurner,Small-Cap,1.0,COMPLETED
+467,GOOGLE,2007,Jun,PeakStream,Parallel processing,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+468,GOOGLE,2007,Jun,Zenter,Presentation program,-,151000000.0,-,Google Docs,Mid-Market,1.0,COMPLETED
+469,GOOGLE,2007,Jul,GrandCentral,Voice over IP,-,45000000.0,-,Google Voice,Small-Cap,1.0,COMPLETED
+470,GOOGLE,2007,Jul,ImageAmerica,Aerial photography,-,151000000.0,-,Google Maps,Mid-Market,1.0,COMPLETED
+471,GOOGLE,2007,Jul,Postini,Communications security,-,625000000.0,-,Gmail,Mega-Deal,1.0,COMPLETED
+472,GOOGLE,2007,Sep,Zingku,Social networking service,-,151000000.0,-,Google Mobile,Mid-Market,1.0,COMPLETED
+473,GOOGLE,2007,Oct,Jaiku,Microblogging,-,151000000.0,-,Google Mobile,Mid-Market,1.0,COMPLETED
+474,GOOGLE,2008,Jul,Omnisio,Online video,-,15000000.0,-,YouTube,Small-Cap,1.0,COMPLETED
+475,GOOGLE,2008,Sep,TNC,Weblog software,-,151000000.0,-,Blogger,Mid-Market,1.0,COMPLETED
+476,GOOGLE,2009,Aug,On2,Video compression,-,133000000.0,-,"WebM, YouTube",Small-Cap,1.0,COMPLETED
+477,GOOGLE,2009,Sep,reCAPTCHA,Security,-,151000000.0,-,"Google Books, reCAPTCHA",Mid-Market,1.0,COMPLETED
+478,GOOGLE,2009,Nov,AdMob,Mobile advertising,-,151000000.0,-,"DoubleClick, Invite Media",Mid-Market,1.0,COMPLETED
+479,GOOGLE,2009,Nov,Gizmo5,Voice over IP,-,30000000.0,-,"Google Talk, Google Hangouts",Small-Cap,1.0,COMPLETED
+480,GOOGLE,2009,Nov,Teracent,Online advertising,-,151000000.0,-,AdSense,Mid-Market,1.0,COMPLETED
+481,GOOGLE,2009,Dec,AppJet,Collaborative real-time editor,-,151000000.0,-,"Google Wave, Google Docs",Mid-Market,1.0,COMPLETED
+482,GOOGLE,2010,Feb,Aardvark,Social search,-,50000000.0,-,Aardvark,Small-Cap,1.0,COMPLETED
+483,GOOGLE,2010,Feb,reMail,Email search,-,151000000.0,-,Gmail,Mid-Market,1.0,COMPLETED
+484,GOOGLE,2010,Mar,Picnik,Photo editing,-,151000000.0,-,Picasa,Mid-Market,1.0,COMPLETED
+485,GOOGLE,2010,Mar,DocVerse,Microsoft Office files sharing site,-,25000000.0,-,Google Docs,Small-Cap,1.0,COMPLETED
+486,GOOGLE,2010,Apr,Episodic,Online video platform start-up,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+487,GOOGLE,2010,Apr,Plink,Visual search engine,-,151000000.0,-,Google Goggles,Mid-Market,1.0,COMPLETED
+488,GOOGLE,2010,Apr,Agnilux,Server CPUs,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+489,GOOGLE,2010,Apr,LabPixies,Gadgets,-,151000000.0,-,"iGoogle, Android",Mid-Market,1.0,COMPLETED
+490,GOOGLE,2010,Apr,BumpTop,Desktop environment,-,30000000.0,-,Android,Small-Cap,1.0,COMPLETED
+491,GOOGLE,2010,May,Global IP Solutions,Video and audio compression,-,68200000.0,-,WebRTC,Small-Cap,1.0,COMPLETED
+492,GOOGLE,2010,May,Simplify Media,Music streaming,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+493,GOOGLE,2010,May,Ruba.com,Travel,-,151000000.0,-,iGoogle,Mid-Market,1.0,COMPLETED
+494,GOOGLE,2010,Jun,Invite Media,Advertising,-,81000000.0,-,DoubleClick,Small-Cap,1.0,COMPLETED
+495,GOOGLE,2010,Jul,Metaweb,Semantic search,-,151000000.0,-,Google Search,Mid-Market,1.0,COMPLETED
+496,GOOGLE,2010,Aug,Zetawire,"Mobile payment, NFC",-,151000000.0,-,"Android, Google Wallet, Google Checkout",Mid-Market,1.0,COMPLETED
+497,GOOGLE,2010,Aug,Instantiations,Java/Eclipse/AJAX developer tools,-,151000000.0,-,Google Web Toolkit,Mid-Market,1.0,COMPLETED
+498,GOOGLE,2010,Aug,Slide.com,Social gaming,-,228000000.0,-,"Google+, Orkut, Google Play",Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+499,GOOGLE,2010,Aug,Jambool,Social Gold payment,-,70000000.0,-,"Google+, Orkut",Small-Cap,1.0,COMPLETED
+500,GOOGLE,2010,Aug,Like.com,Visual search engine,-,100000000.0,-,Google Shopping,Small-Cap,1.0,COMPLETED
+501,GOOGLE,2010,Aug,Angstro,Social networking service,-,151000000.0,-,"Google, Google Alert",Mid-Market,1.0,COMPLETED
+502,GOOGLE,2010,Aug,SocialDeck,Social gaming,-,151000000.0,-,"Google, Google+",Mid-Market,1.0,COMPLETED
+503,GOOGLE,2010,Sep,Quiksee,Online video,-,10000000.0,-,Google Maps,Small-Cap,1.0,COMPLETED
+504,GOOGLE,2010,Sep,Plannr,Schedule management,-,151000000.0,-,Google+,Mid-Market,1.0,COMPLETED
+505,GOOGLE,2010,Oct,BlindType,Touch typing,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+506,GOOGLE,2010,Dec,Phonetic Arts,Speech synthesis,-,151000000.0,-,"Google Voice, Google Translate",Mid-Market,1.0,COMPLETED
+507,GOOGLE,2010,Dec,Widevine Technologies,DRM,-,151000000.0,-,Google TV,Mid-Market,1.0,COMPLETED
+508,GOOGLE,2011,Jan,eBook Technologies,E-book,-,151000000.0,-,Google Books,Mid-Market,1.0,COMPLETED
+509,GOOGLE,2011,Jan,SayNow,Voice recognition,-,151000000.0,-,Google Voice,Mid-Market,1.0,COMPLETED
+510,GOOGLE,2011,Mar,Zynamics,Security,-,151000000.0,-,Project Zero,Mid-Market,1.0,COMPLETED
+511,GOOGLE,2011,Mar,BeatThatQuote.com,Price comparison service,-,65000000.0,-,Google Shopping,Small-Cap,1.0,COMPLETED
+512,GOOGLE,2011,Mar,Next New Networks,Online video,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+513,GOOGLE,2011,Mar,Green Parrot Pictures,Digital video,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+514,GOOGLE,2011,Apr,PushLife,Service provider,-,25000000.0,-,Google Play,Small-Cap,1.0,COMPLETED
+515,GOOGLE,2011,Apr,ITA Software,Travel technology,-,676000000.0,-,Google Flights,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+516,GOOGLE,2011,Apr,TalkBin,Mobile software,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+517,GOOGLE,2011,May,Sparkbuy,Product search,-,151000000.0,-,Google Shopping,Mid-Market,1.0,COMPLETED
+518,GOOGLE,2011,Jun,PostRank,Social media analytics service,-,151000000.0,-,Google+ Google Analytics,Mid-Market,1.0,COMPLETED
+519,GOOGLE,2011,Jun,Admeld,Online advertising,-,400000000.0,-,"DoubleClick, Invite Media",Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+520,GOOGLE,2011,Jun,SageTV,Media center,-,151000000.0,-,"Google TV, Google Fiber, Android TV",Mid-Market,1.0,COMPLETED
+521,GOOGLE,2011,Jul,Punchd,Loyalty program,-,151000000.0,-,Google Offers,Mid-Market,1.0,COMPLETED
+522,GOOGLE,2011,Jul,Fridge,Social groups,-,151000000.0,-,Google+,Mid-Market,1.0,COMPLETED
+523,GOOGLE,2011,Jul,PittPatt,Facial recognition system,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+524,GOOGLE,2011,Aug,Dealmap,One deal a day service,-,151000000.0,-,Google Offers,Mid-Market,1.0,COMPLETED
+525,GOOGLE,2011,Aug,Motorola Mobility,Mobile device manufacturer,-,151000000.0,-,"Android, Google TV, Android TV, Patent portfolio",Mid-Market,1.0,COMPLETED
+526,GOOGLE,2011,Sep,Zave Networks,Digital coupons,-,151000000.0,-,Google Offers,Mid-Market,1.0,COMPLETED
+527,GOOGLE,2011,Sep,Zagat,Restaurant reviews,-,151000000.0,-,"Google Places, Google Maps",Mid-Market,1.0,COMPLETED
+528,GOOGLE,2011,Sep,DailyDeal,One deal a day service,-,114000000.0,-,Google Offers,Small-Cap,1.0,COMPLETED
+529,GOOGLE,2011,Oct,SocialGrapple,Social media analytics service,-,151000000.0,-,Google+ Google Analytics,Mid-Market,1.0,COMPLETED
+530,GOOGLE,2011,Nov,Apture,Instantaneous search,-,151000000.0,-,Google Search,Mid-Market,1.0,COMPLETED
+531,GOOGLE,2011,Nov,Katango,Social circle organization,-,151000000.0,-,Google+,Mid-Market,1.0,COMPLETED
+532,GOOGLE,2011,Dec,RightsFlow,Music rights management,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+533,GOOGLE,2011,Dec,Clever Sense,Local recommendations app,-,151000000.0,-,Google Maps,Mid-Market,1.0,COMPLETED
+534,GOOGLE,2012,Mar,Milk,Software company,-,151000000.0,-,Google+,Mid-Market,1.0,COMPLETED
+535,GOOGLE,2012,Apr,TxVia,Online payments,-,151000000.0,-,"Google Wallet, Google Checkout",Mid-Market,1.0,COMPLETED
+536,GOOGLE,2012,Jun,Meebo,Social networking,-,100000000.0,-,Google+,Small-Cap,1.0,COMPLETED
+537,GOOGLE,2012,Jun,Quickoffice,Mobile office suite,-,151000000.0,-,Google Docs,Mid-Market,1.0,COMPLETED
+538,GOOGLE,2012,Jul,Sparrow,Mobile apps,-,25000000.0,-,Gmail,Small-Cap,1.0,COMPLETED
+539,GOOGLE,2012,-,WIMM Labs,Android-powered smartwatches,-,151000000.0,-,Android Wear,Mid-Market,1.0,COMPLETED
+540,GOOGLE,2012,Aug,Wildfire Interactive,Social media marketing,-,450000000.0,-,"Google, Google+",Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+541,GOOGLE,2012,Sep,VirusTotal.com,Security,-,151000000.0,-,Chronicle,Mid-Market,1.0,COMPLETED
+542,GOOGLE,2012,Sep,Nik Software,Photography,-,151000000.0,-,"Google, Android",Mid-Market,1.0,COMPLETED
+543,GOOGLE,2012,Oct,Viewdle,Facial recognition,-,45000000.0,-,Android,Small-Cap,1.0,COMPLETED
+544,GOOGLE,2012,Nov,Incentive Targeting,Digital coupons,-,151000000.0,-,Google Offers,Mid-Market,1.0,COMPLETED
+545,GOOGLE,2012,Nov,BufferBox,Package delivery,-,17000000.0,-,"Google Shopping, Android",Small-Cap,1.0,COMPLETED
+546,GOOGLE,2013,Feb,Channel Intelligence,Product ecommerce,-,125000000.0,-,Google Shopping,Small-Cap,1.0,COMPLETED
+547,GOOGLE,2013,Mar,DNNresearch,Deep Neural Networks,-,44000000.0,-,"Google, X",Small-Cap,1.0,COMPLETED
+548,GOOGLE,2013,Mar,Talaria Technologies,Cloud computing,-,151000000.0,-,Google Cloud,Mid-Market,1.0,COMPLETED
+549,GOOGLE,2013,Apr,Behavio,Social Prediction,-,151000000.0,-,Google Now,Mid-Market,1.0,COMPLETED
+550,GOOGLE,2013,Apr,Wavii,Natural Language Processing,-,30000000.0,-,Google Knowledge Graph,Small-Cap,1.0,COMPLETED
+551,GOOGLE,2013,May,Makani Power,Airborne wind turbines,-,151000000.0,-,X,Mid-Market,1.0,COMPLETED
+552,GOOGLE,2013,Jun,Waze,GPS navigation software,-,966000000.0,-,"Google Maps, Waze",Mega-Deal,1.0,COMPLETED
+553,GOOGLE,2013,Sep,Bump,Mobile software,-,151000000.0,-,Google Photos,Mid-Market,1.0,COMPLETED
+554,GOOGLE,2013,Oct,Flutter,Gesture recognition technology,-,40000000.0,-,"Google, Android, X",Small-Cap,1.0,COMPLETED
+555,GOOGLE,2013,Oct,FlexyCore,DroidBooster App for Android,-,23000000.0,-,Android,Small-Cap,1.0,COMPLETED
+556,GOOGLE,2013,Dec,Schaft,"Robotics, humanoid robots",-,151000000.0,-,X,Mid-Market,1.0,COMPLETED
+557,GOOGLE,2013,Dec,Industrial Perception,"Robotic arms, computer vision",-,151000000.0,-,X,Mid-Market,1.0,COMPLETED
+558,GOOGLE,2013,Dec,Redwood Robotics,Robotic arms,-,151000000.0,-,X,Mid-Market,1.0,COMPLETED
+559,GOOGLE,2013,Dec,Meka Robotics,Robots,-,151000000.0,-,X,Mid-Market,1.0,COMPLETED
+560,GOOGLE,2013,Dec,Holomni,Robotic wheels,-,151000000.0,-,X,Mid-Market,1.0,COMPLETED
+561,GOOGLE,2013,Dec,Bot & Dolly,Robotic cameras,-,151000000.0,-,X,Mid-Market,1.0,COMPLETED
+562,GOOGLE,2013,Dec,Autofuss,Ads and Design,-,151000000.0,-,X,Mid-Market,1.0,COMPLETED
+563,GOOGLE,2014,Jan,Bitspin,Timely App for Android,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+564,GOOGLE,2014,Jan,Nest Labs,Home automation,-,151000000.0,-,Nest Labs,Mid-Market,1.0,COMPLETED
+565,GOOGLE,2014,Jan,Impermium,Internet security,-,151000000.0,-,Project Zero,Mid-Market,1.0,COMPLETED
+566,GOOGLE,2014,Jan,DeepMind Technologies,Artificial intelligence,-,625000000.0,-,Google DeepMind,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+567,GOOGLE,2014,Feb,SlickLogin,Internet Security,-,151000000.0,-,Project Zero,Mid-Market,1.0,COMPLETED
+568,GOOGLE,2014,Feb,spider.io,Anti-click fraud,-,151000000.0,-,"DoubleClick, AdSense",Mid-Market,1.0,COMPLETED
+569,GOOGLE,2014,Mar,GreenThrottle,Gadgets,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+570,GOOGLE,2014,Apr,Titan Aerospace,High-altitude UAVs,-,151000000.0,-,Project Loon,Mid-Market,1.0,COMPLETED
+571,GOOGLE,2014,May,Rangespan,E-commerce,-,151000000.0,-,Google Shopping,Mid-Market,1.0,COMPLETED
+572,GOOGLE,2014,May,Adometry,Online advertising attribution,-,151000000.0,-,Google Analytics AdSense,Mid-Market,1.0,COMPLETED
+573,GOOGLE,2014,May,Appetas,Restaurant website creation,-,151000000.0,-,Google My Business,Mid-Market,1.0,COMPLETED
+574,GOOGLE,2014,May,Stackdriver,Cloud computing,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+575,GOOGLE,2014,May,MyEnergy,Online energy usage monitoring,-,151000000.0,-,Nest Labs,Mid-Market,1.0,COMPLETED
+576,GOOGLE,2014,May,Quest Visual,Augmented reality,-,151000000.0,-,Google Translate,Mid-Market,1.0,COMPLETED
+577,GOOGLE,2014,May,Divide,Mobile device management,-,151000000.0,-,Android for Work,Mid-Market,1.0,COMPLETED
+578,GOOGLE,2014,Jun,Skybox Imaging,Satellite,-,500000000.0,-,"Google Maps, Project Loon",Mega-Deal,1.0,COMPLETED
+579,GOOGLE,2014,Jun,mDialog,Online advertising,-,151000000.0,-,DoubleClick,Mid-Market,1.0,COMPLETED
+580,GOOGLE,2014,Jun,Alpental Technologies,Wireless,-,151000000.0,-,Google,Mid-Market,1.0,COMPLETED
+581,GOOGLE,2014,Jun,Dropcam,Home monitoring,-,555000000.0,-,Nest Labs,Mega-Deal,1.0,COMPLETED
+582,GOOGLE,2014,Jun,Appurify,Automated application testing,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+583,GOOGLE,2014,Jul,Songza,Music streaming,-,151000000.0,-,"Google Play, Android TV",Mid-Market,1.0,COMPLETED
+584,GOOGLE,2014,Jul,drawElements,Graphics compatibility testing,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+585,GOOGLE,2014,Aug,Emu,IM client,-,151000000.0,-,"Google Hangouts, Google Now",Mid-Market,1.0,COMPLETED
+586,GOOGLE,2014,Aug,Director,Mobile video,-,151000000.0,-,"YouTube, Android",Mid-Market,1.0,COMPLETED
+587,GOOGLE,2014,Aug,Jetpac,"Artificial intelligence, image recognition",-,151000000.0,-,Picasa,Mid-Market,1.0,COMPLETED
+588,GOOGLE,2014,Aug,Gecko Design,Mechanical design,-,151000000.0,-,X,Mid-Market,1.0,COMPLETED
+589,GOOGLE,2014,Aug,Zync Render,Cloud-based visual effects software,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+590,GOOGLE,2014,Sep,Lift Labs,Liftware,-,151000000.0,-,Verily,Mid-Market,1.0,COMPLETED
+591,GOOGLE,2014,Sep,Polar,Social polling,-,151000000.0,-,Google+,Mid-Market,1.0,COMPLETED
+592,GOOGLE,2014,Oct,Firebase,Application development platform,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+593,GOOGLE,2014,Oct,Dark Blue Labs & Vision Factory,Artificial intelligence,-,10000000.0,-,Google DeepMind,Small-Cap,1.0,COMPLETED
+594,GOOGLE,2014,Oct,Revolv,Home automation,-,151000000.0,-,Nest Labs,Mid-Market,1.0,COMPLETED
+595,GOOGLE,2014,Nov,RelativeWave,Mobile software prototyping,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+596,GOOGLE,2014,Dec,Vidmaker,Video editing,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+597,GOOGLE,2015,Feb,Launchpad Toys,Child-friendly apps,-,151000000.0,-,YouTube for Kids,Mid-Market,1.0,COMPLETED
+598,GOOGLE,2015,Feb,Odysee,Multimedia sharing and storage,-,151000000.0,-,Google+,Mid-Market,1.0,COMPLETED
+599,GOOGLE,2015,Feb,Softcard,Mobile payments,-,151000000.0,-,Android Pay,Mid-Market,1.0,COMPLETED
+600,GOOGLE,2015,Feb,Red Hot Labs,App advertising and discovery,-,151000000.0,-,Google Play,Mid-Market,1.0,COMPLETED
+601,GOOGLE,2015,Apr,Thrive Audio,Surround sound technology,-,151000000.0,-,Google Cardboard,Mid-Market,1.0,COMPLETED
+602,GOOGLE,2015,Apr,Skillman & Hackett,Virtual reality software,-,151000000.0,-,Tilt Brush,Mid-Market,1.0,COMPLETED
+603,GOOGLE,2015,May,Timeful,Mobile software,-,151000000.0,-,"Google Inbox, Google Calendar",Mid-Market,1.0,COMPLETED
+604,GOOGLE,2015,May,Pulse.io,Mobile app optimizer,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+605,GOOGLE,2015,Jul,Pixate,Mobile software prototyping,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+606,GOOGLE,2015,Sep,Oyster,E-book subscriptions,-,151000000.0,-,Google Play Books,Mid-Market,1.0,COMPLETED
+607,GOOGLE,2015,Sep,Jibe Mobile,Rich Communication Services,-,151000000.0,-,Messages,Mid-Market,1.0,COMPLETED
+608,GOOGLE,2015,Jun,Agawi,Mobile application streaming,-,151000000.0,-,"Android, Google Play",Mid-Market,1.0,COMPLETED
+609,GOOGLE,2015,Oct,Digisfera,360-degree photography,-,151000000.0,-,Street View,Mid-Market,1.0,COMPLETED
+610,GOOGLE,2015,Nov,Fly Labs,Video editing,-,151000000.0,-,Google Photos,Mid-Market,1.0,COMPLETED
+611,GOOGLE,2015,Nov,bebop,Cloud software,-,380000000.0,-,Google Cloud Platform,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+612,GOOGLE,2016,Feb,BandPage,Platform for musicians,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+613,GOOGLE,2016,Feb,Pie,Enterprise communications,-,151000000.0,-,Spaces,Mid-Market,1.0,COMPLETED
+614,GOOGLE,2016,May,Synergyse,Interactive learning platform,-,151000000.0,-,Google Docs,Mid-Market,1.0,COMPLETED
+615,GOOGLE,2016,Jun,Webpass,Internet service provider,-,151000000.0,-,Google Fiber,Mid-Market,1.0,COMPLETED
+616,GOOGLE,2016,Jul,Moodstocks,Image recognition,-,151000000.0,-,Google Photos,Mid-Market,1.0,COMPLETED
+617,GOOGLE,2016,Jul,Anvato,Cloud-based video services,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+618,GOOGLE,2016,Jul,Kifi,Link management,-,151000000.0,-,Spaces,Mid-Market,1.0,COMPLETED
+619,GOOGLE,2016,Jul,LaunchKit,Mobile developer tools,-,151000000.0,-,Firebase,Mid-Market,1.0,COMPLETED
+620,GOOGLE,2016,Aug,Orbitera,Cloud software,-,100000000.0,-,Google Cloud Platform,Small-Cap,1.0,COMPLETED
+621,GOOGLE,2016,Sep,Apigee,API management and predictive analytics,-,625000000.0,-,Google Cloud Platform,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+622,GOOGLE,2016,Sep,Urban Engines,Location-based analytics,-,151000000.0,-,Google Maps,Mid-Market,1.0,COMPLETED
+623,GOOGLE,2016,Sep,API.AI,Natural language processing,-,151000000.0,-,Google Assistant,Mid-Market,1.0,COMPLETED
+624,GOOGLE,2016,Oct,FameBit,Branded content,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+625,GOOGLE,2016,Oct,Eyefluence,"Eye tracking, virtual reality",-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+626,GOOGLE,2016,Nov,LeapDroid,Android Emulator,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+627,GOOGLE,2016,Nov,Qwiklabs,Cloud-based hands-on training platform,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+628,GOOGLE,2016,Dec,Cronologics,Smartwatches,-,151000000.0,-,Android Wear,Mid-Market,1.0,COMPLETED
+629,GOOGLE,2017,Jan,Limes Audio,Voice communication,-,151000000.0,-,"Google Duo, Google Hangouts",Mid-Market,1.0,COMPLETED
+630,GOOGLE,2017,Jan,Fabric,Mobile app platform,-,151000000.0,-,Firebase,Mid-Market,1.0,COMPLETED
+631,GOOGLE,2017,Mar,Kaggle,Data science,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+632,GOOGLE,2017,Mar,AppBridge,Productivity suite,-,151000000.0,-,Google Docs,Mid-Market,1.0,COMPLETED
+633,GOOGLE,2017,May,Owlchemy Labs,Virtual reality studio,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+634,GOOGLE,2017,Jul,Halli Labs,Artificial intelligence,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+635,GOOGLE,2017,Aug,AIMatter,Computer vision,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+636,GOOGLE,2017,Sep,HTC (portions),Talent and intellectual property licenses,-,151000000.0,-,Google Pixel,Mid-Market,1.0,COMPLETED
+637,GOOGLE,2017,Sep,Bitium,Single sign-on and identity management,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+638,GOOGLE,2017,Oct,Relay Media,AMP converter,-,151000000.0,-,Accelerated Mobile Pages,Mid-Market,1.0,COMPLETED
+639,GOOGLE,2017,Oct,60db,Podcasts,-,151000000.0,-,"Google Play Music, Google Podcasts",Mid-Market,1.0,COMPLETED
+640,GOOGLE,2018,Jan,Redux,Audio,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+641,GOOGLE,2018,Mar,Tenor,GIF image search,-,151000000.0,-,"Google Images, Gboard",Mid-Market,1.0,COMPLETED
+642,GOOGLE,2018,May,Velostrata,Cloud migration,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+643,GOOGLE,2018,May,Cask,"Big data, Hadoop",-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+644,GOOGLE,2018,Aug,GraphicsFuzz,GPU reliability,-,151000000.0,-,Android,Mid-Market,1.0,COMPLETED
+645,GOOGLE,2018,Sep,Senosis,Health monitoring,-,151000000.0,-,Nest Labs,Mid-Market,1.0,COMPLETED
+646,GOOGLE,2018,Oct,Onward,"Machine learning, natural language processing",-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+647,GOOGLE,2018,Nov,Workbench Education,Education technology,-,151000000.0,-,Google Classroom,Mid-Market,1.0,COMPLETED
+648,GOOGLE,2018,Dec,Sigmoid Labs,Indian Railways Train Tracking,-,40000000.0,-,Google Maps,Small-Cap,1.0,COMPLETED
+649,GOOGLE,2018,Dec,DevOps Research and Assessment,Research and Assessment,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+650,GOOGLE,2019,Jan,Superpod,Question and answer app,-,60000000.0,-,Google Assistant,Small-Cap,1.0,COMPLETED
+651,GOOGLE,2019,Feb,Alooma,"Big data, cloud migration",-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+652,GOOGLE,2019,Mar,Nightcorn,Video sharing,-,151000000.0,-,YouTube,Mid-Market,1.0,COMPLETED
+653,GOOGLE,2019,Jun,Looker,"Big data, analytics",-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+654,GOOGLE,2019,Jul,Elastifile,File storage,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+655,GOOGLE,2019,Oct,Socratic,Learning apps,-,151000000.0,-,Google Classroom,Mid-Market,1.0,COMPLETED
+656,GOOGLE,2019,Nov,CloudSimple,Cloud hosting,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+657,GOOGLE,2019,Dec,Typhoon Studios,Video game development,-,151000000.0,-,Stadia,Mid-Market,1.0,COMPLETED
+658,GOOGLE,2020,Jan,AppSheet,Mobile app development,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+659,GOOGLE,2020,Jan,Pointy,Local retail inventory feeds,-,163000000.0,-,Google Maps,Mega-Deal,1.0,COMPLETED
+660,GOOGLE,2020,Feb,Cornerstone Technology B.V.,"Mainframe, cloud migration",-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+661,GOOGLE,2020,Jun,North,Smart glasses,-,180000000.0,-,-,Mega-Deal,1.0,COMPLETED
+662,GOOGLE,2020,Aug,Stratozone,Cloud Assessment,-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+663,GOOGLE,2020,Dec,Dataform,"Big data, analytics",-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+664,GOOGLE,2020,Dec,Neverware,Chrome OS distribution,-,151000000.0,-,Chrome OS,Mid-Market,1.0,COMPLETED
+665,GOOGLE,2020,Dec,Actifio,"Backup, Disaster Recovery",-,151000000.0,-,Google Cloud Platform,Mid-Market,1.0,COMPLETED
+666,GOOGLE,2021,Jan,Fitbit,Wearables,-,151000000.0,-,Wear OS,Mid-Market,1.0,COMPLETED
+667,GOOGLE,2021,Feb,Provino,Cloud hardware,-,151000000.0,-,Tensor processing unit,Mid-Market,1.0,COMPLETED
+668,GOOGLE,2021,Apr,Dysonics,Audio hardware,-,151000000.0,-,Pixel Buds,Mid-Market,1.0,COMPLETED
+669,GOOGLE,2021,Sep,Playspace,Collaboration tool,-,151000000.0,-,Google Workspace,Mid-Market,1.0,COMPLETED
+670,MICROSOFT,1987,Jul,"Forethought, Inc.",Computer software,-,14000000.0,-,-,Small-Cap,1.0,COMPLETED
+671,MICROSOFT,1991,Mar,Consumers Software,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+672,MICROSOFT,1992,Jun,Fox Software,PC database software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+673,MICROSOFT,1994,Feb,Softimage,Wholesale 3-D visualization software,-,130000000.0,-,-,Small-Cap,1.0,COMPLETED
+674,MICROSOFT,1994,Sep,Altamira Software,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+675,MICROSOFT,1994,Nov,NextBase,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+676,MICROSOFT,1994,Nov,One Tree Software,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+677,MICROSOFT,1995,Feb,RenderMorphics,3D graphics hardware,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+678,MICROSOFT,1995,Jul,Network Managers,Systems design,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+679,MICROSOFT,1995,Oct,The Blue Ribbon SoundWorks,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+680,MICROSOFT,1995,Nov,Netwise,Computer software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+681,MICROSOFT,1995,Dec,Bruce Artwick Organization,Programming,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+682,MICROSOFT,1996,Jan,Vermeer Technologies,Software,-,133000000.0,-,-,Small-Cap,1.0,COMPLETED
+683,MICROSOFT,1996,Mar,VGA-Animation Software Div,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+684,MICROSOFT,1996,Mar,Colusa Software,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+685,MICROSOFT,1996,Apr,Exos,Video game controllers,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+686,MICROSOFT,1996,Apr,Aspect Software Engineering,Computer software,-,14150000.0,-,-,Small-Cap,1.0,COMPLETED
+687,MICROSOFT,1996,Jun,eShop Inc.,Software,-,50000000.0,-,-,Small-Cap,1.0,COMPLETED
+688,MICROSOFT,1996,Jun,Electric Gravity,Electronic games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+689,MICROSOFT,1996,Nov,Panorama Software Sys-On-Line,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+690,MICROSOFT,1997,Feb,NetCarta,Internet software,-,20000000.0,-,-,Small-Cap,1.0,COMPLETED
+691,MICROSOFT,1997,Mar,Interse,Internet software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+692,MICROSOFT,1997,Apr,WebTV Networks,Internet service provider,-,425000000.0,-,-,Mega-Deal,1.0,COMPLETED
+693,MICROSOFT,1997,May,Dimension X,Java-based platforms,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+694,MICROSOFT,1997,Jun,Cooper & Peters,Programming,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+695,MICROSOFT,1997,Jun,LinkAge Software,Internet software development,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+696,MICROSOFT,1997,Aug,VXtreme,Internet video software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+697,MICROSOFT,1997,Dec,Hotmail,Internet software,-,500000000.0,-,-,Mega-Deal,1.0,COMPLETED
+698,MICROSOFT,1998,Feb,Flash Communications,Enterprise instant messaging software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+699,MICROSOFT,1998,Apr,Firefly,Relationship management software,-,40000000.0,-,-,Small-Cap,1.0,COMPLETED
+700,MICROSOFT,1998,Apr,MESA Group,Data sharing software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+701,MICROSOFT,1998,Aug,Valence Research,Internet software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+702,MICROSOFT,1998,Nov,LinkExchange,Internet advertising network,-,265000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+703,MICROSOFT,1999,Jan,FASA Interactive,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+704,MICROSOFT,1999,Mar,CompareNet,Shopping online,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+705,MICROSOFT,1999,Mar,Numinous Technologies,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+706,MICROSOFT,1999,Apr,Access Software,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+707,MICROSOFT,1999,Apr,Interactive Objects-Digital,Web music software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+708,MICROSOFT,1999,Apr,Jump Networks,Internet service provider,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+709,MICROSOFT,1999,Jun,ShadowFactor Software,Wholesale computer software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+710,MICROSOFT,1999,Jun,Omnibrowse,Internet software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+711,MICROSOFT,1999,Jun,Intrinsa,Defect detection software,-,58900000.0,-,-,Small-Cap,1.0,COMPLETED
+712,MICROSOFT,1999,Jul,Sendit,Application software,-,125420000.0,-,-,Small-Cap,1.0,COMPLETED
+713,MICROSOFT,1999,Jul,Zoomit,Encryption software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+714,MICROSOFT,1999,Jul,STNC,Community software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+715,MICROSOFT,1999,Sep,Softway Systems,Computer programming,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+716,MICROSOFT,1999,Oct,Entropic,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+717,MICROSOFT,2000,Jan,Visio Corporation,Wholesale drawing software,-,1375000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+718,MICROSOFT,2000,Feb,Peach Networks,Digital TV services,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+719,MICROSOFT,2000,Mar,Travelscape,Internet service provider,-,89750000.0,-,-,Small-Cap,1.0,COMPLETED
+720,MICROSOFT,2000,Apr,Titus Communications,Cable television,-,944800000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+721,MICROSOFT,2000,Jun,Bungie,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+722,MICROSOFT,2000,Jul,NetGames,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+723,MICROSOFT,2000,Sep,MongoMusic,Online music search engine,-,65000000.0,-,-,Small-Cap,1.0,COMPLETED
+724,MICROSOFT,2000,Sep,Pacific Microsonics,Digital audio technology,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+725,MICROSOFT,2000,Dec,Digital Anvil,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+726,MICROSOFT,2001,Mar,Vacationspot,Internet service provider,-,70850000.0,-,-,Small-Cap,1.0,COMPLETED
+727,MICROSOFT,2001,Apr,Great Plains Software,Business management software,-,939884000.0,-,-,Mega-Deal,1.0,COMPLETED
+728,MICROSOFT,2001,May,Intellisol International,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+729,MICROSOFT,2001,May,Ensemble Studios,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+730,MICROSOFT,2001,May,NCompass Labs,Internet software,-,36000000.0,-,-,Small-Cap,1.0,COMPLETED
+731,MICROSOFT,2001,Jun,Maximal Innovative Intelligence,Software,-,20000000.0,-,-,Small-Cap,1.0,COMPLETED
+732,MICROSOFT,2001,Jul,Yupi,Online Spanish portal,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+733,MICROSOFT,2002,Mar,Classic Custom Vacations,Travel agency,-,78000000.0,-,-,Small-Cap,1.0,COMPLETED
+734,MICROSOFT,2002,May,Sales Management Systems,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+735,MICROSOFT,2002,Jul,Navision,Software programming,-,1330000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+736,MICROSOFT,2002,Jul,Mobilocity,Computer consulting,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+737,MICROSOFT,2002,Sep,XDegrees,Security software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+738,MICROSOFT,2002,Sep,Rare,Video games,-,375000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+739,MICROSOFT,2002,Dec,Vicinity,Online enterprise location,-,95849000.0,-,-,Small-Cap,1.0,COMPLETED
+740,MICROSOFT,2003,Feb,Connectix,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+741,MICROSOFT,2003,Mar,DCG,Internet software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+742,MICROSOFT,2003,Apr,PlaceWare,Web conferencing,-,200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+743,MICROSOFT,2003,May,G.A. Sullivan,Information technology,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+744,MICROSOFT,2003,Jun,GeCAD Software,Antivirus technology,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+745,MICROSOFT,2003,Aug,3DO Co-High Heat Baseball,Software,-,450000.0,-,-,Small-Cap,1.0,COMPLETED
+746,MICROSOFT,2004,Apr,Encore Bus Solutions-IP Asts,IP assets,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+747,MICROSOFT,2004,Apr,ActiveViews,Reporting systems,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+748,MICROSOFT,2004,Jul,Lookout Software,Personal search tool,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+749,MICROSOFT,2004,Dec,GIANT Company Software,Anti-spyware,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+750,MICROSOFT,2005,Mar,en'tegrate,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+751,MICROSOFT,2005,Apr,Groove Networks,Community software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+752,MICROSOFT,2005,May,MessageCast,Messaging,-,7000000.0,-,-,Small-Cap,1.0,COMPLETED
+753,MICROSOFT,2005,May,Tsinghua-Shenxun-Cert Asts,Certain assets,-,15000000.0,-,-,Small-Cap,1.0,COMPLETED
+754,MICROSOFT,2005,Jun,Sybari Software,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+755,MICROSOFT,2005,Aug,Teleo,VoIP,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+756,MICROSOFT,2005,Aug,FrontBridge Technologies,Email protection,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+757,MICROSOFT,2005,Sep,Alacris,Certificate management software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+758,MICROSOFT,2005,Nov,media-streams.com,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+759,MICROSOFT,2005,Nov,5th Finger,Mobile,-,3153000.0,-,-,Small-Cap,1.0,COMPLETED
+760,MICROSOFT,2006,Jan,UMT-Software and IP Assets,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+761,MICROSOFT,2006,Feb,MotionBridge,Search,-,17858000.0,-,-,Small-Cap,1.0,COMPLETED
+762,MICROSOFT,2006,Feb,Seadragon Software,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+763,MICROSOFT,2006,Mar,Apptimum,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+764,MICROSOFT,2006,Mar,Onfolio,Internet software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+765,MICROSOFT,2006,Apr,Lionhead Studios,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+766,MICROSOFT,2006,Apr,AssetMetrix,Enterprise asset intelligence (SaaS),-,18000000.0,-,-,Small-Cap,1.0,COMPLETED
+767,MICROSOFT,2006,May,Massive Incorporated,Video game advertising,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+768,MICROSOFT,2006,May,Vexcel,Mapping software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+769,MICROSOFT,2006,May,DeepMetrix,Web log analysis,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+770,MICROSOFT,2006,Jun,ProClarity,Analysis software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+771,MICROSOFT,2006,Jun,iView Multimedia,Digital asset management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+772,MICROSOFT,2006,Jul,Softricity,Application virtualization software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+773,MICROSOFT,2006,Jul,Winternals Software,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+774,MICROSOFT,2006,Jul,Whale Communications,Applications,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+775,MICROSOFT,2006,Sep,Gteko,Applications,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+776,MICROSOFT,2006,Oct,DesktopStandard,Applications,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+777,MICROSOFT,2006,Oct,Colloquis,Natural language software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+778,MICROSOFT,2007,Mar,Medstory,Internet search engine,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+779,MICROSOFT,2007,Mar,devBiz Business Solutions,Software tools,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+780,MICROSOFT,2007,May,ScreenTonic,Advertising and marketing,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+781,MICROSOFT,2007,May,Tellme Networks,Mobile phone software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+782,MICROSOFT,2007,May,SoftArtisans,Business Intelligence software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+783,MICROSOFT,2007,Jun,Engyro,Information technology,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+784,MICROSOFT,2007,Jun,Stratature,Master data management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+785,MICROSOFT,2007,Jun,Savvis Inc-Data Centers,Networking,-,200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+786,MICROSOFT,2007,Aug,AdECN,Ad Exchange,-,45000000.0,-,-,Small-Cap,1.0,COMPLETED
+787,MICROSOFT,2007,Aug,aQuantive,Digital marketing,-,6333000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+788,MICROSOFT,2007,Oct,Jellyfish.com,Search engine,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+789,MICROSOFT,2007,Oct,Parlano,Enterprise messaging software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+790,MICROSOFT,2007,Oct,Global Care Solutions-Assets,Assets,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+791,MICROSOFT,2007,Nov,HOB Business Solutions,Information technology,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+792,MICROSOFT,2007,Nov,Musiwave,Mobile music entertainment,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+793,MICROSOFT,2007,Dec,Multimap.com,Mapping,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+794,MICROSOFT,2008,Jan,Calista Technologies,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+795,MICROSOFT,2008,Feb,Caligari Corporation,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+796,MICROSOFT,2008,Feb,YaData,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+797,MICROSOFT,2008,Mar,Rapt,Advertising yield management software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+798,MICROSOFT,2008,Mar,Komoku,Rootkit security software,-,5000000.0,-,-,Small-Cap,1.0,COMPLETED
+799,MICROSOFT,2008,Mar,90 Degree Software,Business intelligence software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+800,MICROSOFT,2008,Apr,Farecast,Online search software,-,75000000.0,-,-,Small-Cap,1.0,COMPLETED
+801,MICROSOFT,2008,Apr,Danger,Mobile Internet software,-,500000000.0,-,-,Mega-Deal,1.0,COMPLETED
+802,MICROSOFT,2008,Apr,Fast Search & Transfer,Enterprise search[clarification needed],-,1191000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+803,MICROSOFT,2008,May,Kidaro,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+804,MICROSOFT,2008,Jun,Quadreon,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+805,MICROSOFT,2008,Jun,Navic Networks,Management software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+806,MICROSOFT,2008,Jun,Mobicomp,Mobile applications,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+807,MICROSOFT,2008,Aug,Powerset,Semantic Search,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+808,MICROSOFT,2008,Sep,DATAllegro,Data software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+809,MICROSOFT,2008,Sep,Greenfield Online,Search and e-commerce services,-,486000000.0,-,-,Mega-Deal,1.0,COMPLETED
+810,MICROSOFT,2009,Mar,3DV Systems,"Developer of ZCam, a time-of-flight camera",-,35000000.0,-,-,Small-Cap,1.0,COMPLETED
+811,MICROSOFT,2009,May,BigPark,Video games interactive online gaming,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+812,MICROSOFT,2009,Jun,Rosetta Biosoftware,Bioinformatics solutions for life science research,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+813,MICROSOFT,2009,Sep,Interactive Supercomputing,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+814,MICROSOFT,2009,Dec,Opalis Software,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+815,MICROSOFT,2010,Feb,"Sentillion, Inc.",Software for the healthcare industry,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+816,MICROSOFT,2010,Oct,"AVIcode, Inc.",.Net monitoring technology,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+817,MICROSOFT,2010,Oct,"Canesta, Inc.",3D sensing technology,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+818,MICROSOFT,2011,May,Skype Technologies,Telecommunications,-,8500000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+819,MICROSOFT,2011,Jun,Prodiance,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+820,MICROSOFT,2011,Oct,Twisted Pixel Games,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+821,MICROSOFT,2011,Nov,Videosurf,Video search,-,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+822,MICROSOFT,2012,Jun,Press Play,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+823,MICROSOFT,2012,Jun,Yammer,Social networking,-,1200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+824,MICROSOFT,2012,Jul,Perceptive Pixel,Multi touch hardware,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+825,MICROSOFT,2012,Oct,PhoneFactor,Two-factor authentication system,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+826,MICROSOFT,2012,Oct,StorSimple,Cloud-storage appliance vendor,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+827,MICROSOFT,2012,Oct,MarketingPilot,Marketing automation firm,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+828,MICROSOFT,2013,Jan,id8 Group R2 Studios,Home automation,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+829,MICROSOFT,2013,Feb,Pando Networks,Peer-to-peer (P2P) media distribution,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+830,MICROSOFT,2013,Mar,MetricsHub,Cloud monitoring,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+831,MICROSOFT,2013,Mar,Netbreeze,Social analytics,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+832,MICROSOFT,2013,Jun,InRelease,Release management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+833,MICROSOFT,2013,Sep,Nokia mobile phones unit,"Mobile phones, smartphones",-,7200000000.0,-,-,Mega-Deal,1.0,COMPLETED
+834,MICROSOFT,2013,Oct,HLW Software,RDP applications,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+835,MICROSOFT,2013,Oct,Apiphany,API management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+836,MICROSOFT,2014,Jan,Parature,Customer service software,-,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+837,MICROSOFT,2014,May,GreenButton,Cloud computing,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+838,MICROSOFT,2014,May,Capptain,(Mobile) application development,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+839,MICROSOFT,2014,Jul,SyntaxTree,Developer tools,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+840,MICROSOFT,2014,Jul,InMage,Disaster recovery solutions,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+841,MICROSOFT,2014,Aug,Inception Mobile Inc.,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+842,MICROSOFT,2014,Nov,Mojang,Video games,-,2500000000.0,-,-,Mega-Deal,1.0,COMPLETED
+843,MICROSOFT,2014,Nov,Aorato,Enterprise security & machine learning,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+844,MICROSOFT,2014,Dec,Acompli,Mobile email apps,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+845,MICROSOFT,2014,Dec,HockeyApp,Mobile beta distribution & crash analytics,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+846,MICROSOFT,2015,Jan,Equivio,Text analytics service,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+847,MICROSOFT,2015,Jan,Revolution Analytics,Statistical computing and predictive analytics,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+848,MICROSOFT,2015,Feb,"Sunrise Atelier, Inc.",Sunrise Calendar applications,-,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+849,MICROSOFT,2015,Feb,N-trig,Styli and pen input hardware and software,-,200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+850,MICROSOFT,2015,Mar,LiveLoop,PowerPoint collaboration,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+851,MICROSOFT,2015,Apr,"Datazen Software, Inc.",Mobile business intelligence & data visualization,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+852,MICROSOFT,2015,Jun,6 Wunderkinder GmbH,Wunderlist to-do list applications,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+853,MICROSOFT,2015,Jun,BlueStripe Software,Application management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+854,MICROSOFT,2015,Jul,FieldOne Systems LLC,Enterprise field service,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+855,MICROSOFT,2015,Jul,Adallom,Cloud security,-,320000000.0,-,-,Mega-Deal,1.0,COMPLETED
+856,MICROSOFT,2015,Aug,"Incent Games, LLC",Sales-gamification,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+857,MICROSOFT,2015,Sep,"VoloMetrix, Inc.",Organisational analytics,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+858,MICROSOFT,2015,Sep,"Double Labs, Inc.",Mobile lock screen software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+859,MICROSOFT,2015,Sep,Adxstudio Inc.,Web portal and application lifecycle management solutions,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+860,MICROSOFT,2015,Oct,Havok,Video game physics engine,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+861,MICROSOFT,2015,Nov,"Mobile Data Labs, Inc.","MileIQ, a mileage tracking application",-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+862,MICROSOFT,2015,Nov,Secure Islands Technologies Ltd.,Data protection,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+863,MICROSOFT,2015,Dec,Metanautix,Big data analytics,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+864,MICROSOFT,2015,Dec,"Talko, Inc.",Mobile communications,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+865,MICROSOFT,2016,Jan,Teacher Gaming LLC,Education software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+866,MICROSOFT,2016,Feb,SwiftKey,Virtual keyboard,-,250000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+867,MICROSOFT,2016,Feb,Groove,Music discovery,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+868,MICROSOFT,2016,Feb,Xamarin,Mobile application development,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+869,MICROSOFT,2016,May,Solair,Internet of Things platform,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+870,MICROSOFT,2016,Jun,Wand Labs,Conversation as a service,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+871,MICROSOFT,2016,Aug,Beam,Video game streaming,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+872,MICROSOFT,2016,Aug,Genee,AI-powered scheduling assistant service,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+873,MICROSOFT,2016,Dec,LinkedIn,Professional social network,-,26200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+874,MICROSOFT,2017,Jan,Maluuba,Artificial intelligence,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+875,MICROSOFT,2017,Jan,Simplygon,3D graphics optimization,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+876,MICROSOFT,2017,Apr,Deis,Container management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+877,MICROSOFT,2017,Apr,Intentional Software,Intentional programming,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+878,MICROSOFT,2017,Jun,Hexadite,Cybersecurity,-,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+879,MICROSOFT,2017,Jun,Cloudyn,Cloud business management,-,50000000.0,-,-,Small-Cap,1.0,COMPLETED
+880,MICROSOFT,2017,Aug,Cycle Computing,Cloud HPC,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+881,MICROSOFT,2017,Oct,AltspaceVR,Virtual reality,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+882,MICROSOFT,2017,Nov,SWNG,Cinemagraphic photo app,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+883,MICROSOFT,2018,Jan,Avere Systems,Data management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+884,MICROSOFT,2018,Jan,Playfab,Gaming backend service,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+885,MICROSOFT,2018,May,Semantic Machines,Conversational AI,-,400000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+886,MICROSOFT,2018,Jun,Ninja Theory,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+887,MICROSOFT,2018,Jun,Undead Labs,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+888,MICROSOFT,2018,Jun,Compulsion Games,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+889,MICROSOFT,2018,Jun,Playground Games,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+890,MICROSOFT,2018,Jun,Flipgrid,"Education, video discussion platform",-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+891,MICROSOFT,2018,Jun,Bonsai,Industrial AI platform,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+892,MICROSOFT,2018,Sep,Lobe,Artificial intelligence,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+893,MICROSOFT,2018,Oct,Glint,Employee engagement,-,400000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+894,MICROSOFT,2018,Oct,GitHub,Software development and version control platform,-,7500000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+895,MICROSOFT,2018,Nov,inXile Entertainment,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+896,MICROSOFT,2018,Nov,Obsidian Entertainment,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+897,MICROSOFT,2018,Nov,XOXCO,Conversational AI,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+898,MICROSOFT,2018,Nov,FSLogix,Application provisioning and virtualization,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+899,MICROSOFT,2018,Nov,Spectrum,Social networks for design and development,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+900,MICROSOFT,2019,Jan,Citus Data,Database management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+901,MICROSOFT,2019,Feb,DataSense,Database management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+902,MICROSOFT,2019,Apr,Express Logic,Real-time operating systems,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+903,MICROSOFT,2019,Jun,Double Fine Productions,Video games,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+904,MICROSOFT,2019,Jul,BlueTalon,Data privacy and governance service,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+905,MICROSOFT,2019,Aug,PromoteIQ,Retail e-commerce improvement,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+906,MICROSOFT,2019,Aug,jClarity,Java software optimization,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+907,MICROSOFT,2019,Sep,Movere,Cloud migration,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+908,MICROSOFT,2019,Oct,Mover,File migration,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+909,MICROSOFT,2020,Mar,Affirmed Networks,5G Networking,-,1350000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+910,MICROSOFT,2020,May,Metaswitch Networks,5G Networking,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+911,MICROSOFT,2020,May,Softomotive,Robotic Process Automation,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+912,MICROSOFT,2020,Jun,ADRM Software,data modeling startup,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+913,MICROSOFT,2020,Jun,CyberX,IoT/OT Security,-,165000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+914,MICROSOFT,2020,Jul,Orions Systems,Dynamics 365 - SMart vision,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+915,MICROSOFT,2020,Sep,ZeniMax Media,Video games,-,8100000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+916,MICROSOFT,2020,Dec,Smash.gg,Esports,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+917,MICROSOFT,2021,Mar,The Marsden Group,Tech in complex industrial environments,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+918,MICROSOFT,2021,Apr,Nuance Communications,Speech synthesis and speech recognition,-,19700000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+919,MICROSOFT,2021,Jun,ReFirm Labs,IoT security and embedded devices,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+920,MICROSOFT,2021,Jun,AT&T Technology Network Cloud,5G Networking,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+921,MICROSOFT,2021,Jul,RiskIQ,Cybersecurity ransomware,-,500000000.0,-,-,Mega-Deal,1.0,COMPLETED
+922,MICROSOFT,2021,Jul,CloudKnox,Cloud infrastructure entitlement management security,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+923,MICROSOFT,2021,Jul,Suplari,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+924,MICROSOFT,2021,Aug,Peer5,Peer 2 Peer Network Technology,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+925,MICROSOFT,2021,Sep,Clipchamp,Video-editing software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+926,MICROSOFT,2021,Sep,TakeLessons,Education,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+927,MICROSOFT,2021,Oct,Ally.io,Productivity,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+928,BLACKBERRY,2001,Nov,Plazmic Inc.,Software,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+929,BLACKBERRY,2002,Aug,TeamOn Systes Inc.,Software provider,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+930,BLACKBERRY,2005,Feb,Nextair Inc.,Mobile app design studio and apps,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+931,BLACKBERRY,2006,Mar,Ascendent Systems,Enterprise voice mobility solutions,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+932,BLACKBERRY,2006,Jun,Slipstream Data Inc.,Data compression,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+933,BLACKBERRY,2006,Nov,Epoch Integration,Wireless network firm,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+934,BLACKBERRY,2009,Jan,Certicom,Cryptography,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+935,BLACKBERRY,2009,Jan,Chalk Media,Software,-,23125000.0,-,-,Small-Cap,1.0,COMPLETED
+936,BLACKBERRY,2009,Feb,Alt-N Technologies,Mail transfer agent,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+937,BLACKBERRY,2009,Jun,Dash Navigation,Car navigation systems,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+938,BLACKBERRY,2009,Aug,Torch Mobile,WebKit mobile browser,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+939,BLACKBERRY,2010,Mar,Viigo,News / data aggregation,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+940,BLACKBERRY,2010,Apr,QNX Software Systems,Unix-like OS,-,200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+941,BLACKBERRY,2010,Aug,Cellmania,App store software maker,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+942,BLACKBERRY,2010,Sep,Documents To Go and other assets,Office suite,-,50000000.0,-,-,Small-Cap,1.0,COMPLETED
+943,BLACKBERRY,2010,Dec,The Astonishing Tribe,Interface wizards,-,150000000.0,-,-,Small-Cap,1.0,COMPLETED
+944,BLACKBERRY,2011,Feb,Gist,Professional contact manager,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+945,BLACKBERRY,2011,Mar,tinyHippos,Mobile web development,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+946,BLACKBERRY,2011,Apr,Tungle.me,Social calendaring,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+947,BLACKBERRY,2011,Jun,Scoreloop,Social gaming,-,71000000.0,-,-,Small-Cap,1.0,COMPLETED
+948,BLACKBERRY,2011,May,Ubitexx,Mobile device management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+949,BLACKBERRY,2011,Jul,Jaycut,Video editing,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+950,BLACKBERRY,2011,Oct,NewBay,Content provider,-,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+951,BLACKBERRY,2012,Mar,Paratek,RF multi-band handsets,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+952,BLACKBERRY,2013,May,Scroon,Social marketing company,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+953,BLACKBERRY,2014,Jul,Secusmart GmbH,Voice and data encryption,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+954,BLACKBERRY,2014,Sep,Movirtu,Virtual SIM solutions,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+955,BLACKBERRY,2015,Apr,WatchDox Ltd.,Enterprise data sync and share,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+956,BLACKBERRY,2015,Jul,"AtHoc, Inc.",Networked crisis communications,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+957,BLACKBERRY,2015,Aug,Good Technology,Mobile security provider,-,425000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+958,BLACKBERRY,2016,Feb,Encription Ltd.,Cybersecurity services,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+959,BLACKBERRY,2018,Nov,Cylance Inc.,Security firm,-,1400000000.0,-,-,Mega-Deal,1.0,COMPLETED
+960,EBAY,1998,Jul,Up4Sale.com,Online auction,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+961,EBAY,1999,Apr,Butterfield & Butterfield,Auction house,-,260000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+962,EBAY,1999,May,Billpoint,E-commerce payment systems,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+963,EBAY,1999,May,Kruse International,Car auctions,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+964,EBAY,1999,Jun,Alando,Auction house,-,43000000.0,-,-,Small-Cap,1.0,COMPLETED
+965,EBAY,1999,Oct,Blackthorne,Listing tool,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+966,EBAY,2000,Jun,Half.com,Online marketplace,-,318000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+967,EBAY,2000,Dec,Precision Buying Service,E-commerce payment systems,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+968,EBAY,2001,Jan,Internet Auction Co.,Online auction,-,120000000.0,-,-,Small-Cap,1.0,COMPLETED
+969,EBAY,2001,Mar,iBazar,Online auction,-,93000000.0,-,-,Small-Cap,1.0,COMPLETED
+970,EBAY,2002,Jul,PayPal,E-commerce payment systems,-,1500000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+971,EBAY,2003,Jan,CARad.com,Online auction,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+972,EBAY,2003,Jul,EachNet,Electronic commerce,-,150000000.0,-,-,Small-Cap,1.0,COMPLETED
+973,EBAY,2004,Jan,mobile.de,Vehicles classifieds,-,152000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+974,EBAY,2004,Jun,Baazee.com,Online auction,-,50000000.0,-,-,Small-Cap,1.0,COMPLETED
+975,EBAY,2004,Aug,Craigslist,Classified advertising,-,13500000.0,-,-,Small-Cap,1.0,COMPLETED
+976,EBAY,2004,Nov,Marktplaats.nl,Classified advertising,-,290000000.0,-,-,Mega-Deal,1.0,COMPLETED
+977,EBAY,2004,Dec,Rent.com,Classified advertising,-,415000000.0,-,-,Mega-Deal,1.0,COMPLETED
+978,EBAY,2005,May,Loquo,Classified advertising,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+979,EBAY,2005,May,Gumtree,Classified advertising,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+980,EBAY,2005,Jun,Shopping.com,Price comparison service,-,620000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+981,EBAY,2005,Jun,OpusForum.org,Classified advertising,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+982,EBAY,2005,Sep,Skype Limited,Software for voice & video calls,-,2600000000.0,-,-,Mega-Deal,1.0,COMPLETED
+983,EBAY,2006,Apr,Tradera,Online auction,-,48000000.0,-,-,Small-Cap,1.0,COMPLETED
+984,EBAY,2007,May,StumbleUpon,Browser plugin,-,75000000.0,-,-,Small-Cap,1.0,COMPLETED
+985,EBAY,2007,Jan,StubHub,Electronic commerce,-,310000000.0,-,-,Mega-Deal,1.0,COMPLETED
+986,EBAY,2007,May,GittiGidiyor,Electronic commerce,-,217500000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+987,EBAY,2006,Mar,Meetup.com,Social network service,-,10000000.0,-,-,Small-Cap,1.0,COMPLETED
+988,EBAY,2008,Jan,Fraud Sciences,Online risk management,-,169000000.0,-,-,Mega-Deal,1.0,COMPLETED
+989,EBAY,2008,Oct,Bill Me Later,Electronic commerce,-,1200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+990,EBAY,2008,Oct,dba.dk & bilbasen.dk,Classified advertising,-,390000000.0,-,-,Mega-Deal,1.0,COMPLETED
+991,EBAY,2009,Jan,Positronic Inc.,Machine learning,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+992,EBAY,2009,Apr,G-Market,Electronic commerce,-,1200000000.0,-,-,Mega-Deal,1.0,COMPLETED
+993,EBAY,2010,Mar,Magento,Electronic commerce,-,225000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+994,EBAY,2010,Jun,RedLaser,Mobile applications,-,10000000.0,-,-,Small-Cap,1.0,COMPLETED
+995,EBAY,2010,Dec,Milo.com,Shopping engine,-,75000000.0,-,-,Small-Cap,1.0,COMPLETED
+996,EBAY,2010,Dec,brands4friends,Electronic commerce,-,200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+997,EBAY,2011,Mar,GSI Commerce,Marketing/fulfillment,-,2400000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+998,EBAY,2011,Mar,"Where, Inc.",Local search and recommendation,-,135000000.0,-,-,Small-Cap,1.0,COMPLETED
+999,EBAY,2011,May,MissionFish,Nonprofit fundraising,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1000,EBAY,2011,Jun,alaMaula,Online classifieds,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1001,EBAY,2011,Jul,Zong,Payments through mobile carrier billing,-,240000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1002,EBAY,2011,Sep,The Gifts Project,Group purchasing of gifts,-,50000000.0,-,-,Small-Cap,1.0,COMPLETED
+1003,EBAY,2011,Dec,Zvents,Local event listings,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1004,EBAY,2011,Dec,BillSAFE,Billing technology,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1005,EBAY,2012,Sep,Svpply,Social shopping,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1006,EBAY,2013,Jul,2dehands.be and 2ememain.be,Classified advertising,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1007,EBAY,2013,Sep,Decide.com,Price forecasting,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1008,EBAY,2013,Sep,Braintree,Payments,-,800000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1009,EBAY,2013,Sep,Bureau of Trade,Content / commerce,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1010,EBAY,2013,Oct,Shutl,Rapid fulfillment service,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1011,EBAY,2014,Feb,PhiSix Fashion Labs,Virtual clothing,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1012,EBAY,2015,Jan,Vivanuncios,Online classifieds,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1013,EBAY,2015,Jul,Twice,Secondhand clothing retailer,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1014,EBAY,2016,Mar,Cargigi,Inventory management,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1015,EBAY,2016,May,ExpertMaker,Machine learning,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1016,EBAY,2016,May,Ticketbis,Online ticket marketplace,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1017,EBAY,2016,Jul,SalesPredict,Online commerce,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1018,EBAY,2016,Oct,Corrigon,Image recognition,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1019,EBAY,2017,Aug,Flipkart,Online commerce,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1020,EBAY,2017,Dec,Terapeak,Data tools,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1021,EBAY,2018,Oct,Motors.co.uk,Online commerce,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1022,EBAY,2020,May,"CarsGuide, Autoscout",Online commerce,-,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1023,IBM,2001,Jun,Mainspring,Business strategy consulting,United States,80000000.0,-,-,Small-Cap,1.0,COMPLETED
+1024,IBM,2001,Jul,Informix Corporation,Database software,United States,1000000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1025,IBM,2002,Jan,"CrossWorlds Software, Inc.",Software,United States,129000000.0,-,-,Small-Cap,1.0,COMPLETED
+1026,IBM,2002,Jun,Metamerge,Identity management,Norway,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1027,IBM,2002,Aug,"Trellisoft, Inc.",Enterprise storage,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1028,IBM,2002,Sep,"Holosofx, Inc.",Business Process Management,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1029,IBM,2002,Oct,PWC Consulting from PricewaterhouseCoopers,Business Consulting and Technology Services,United States,3500000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1030,IBM,2002,Oct,Access360,Software,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1031,IBM,2002,Oct,EADS Matra Datavision,Product lifecycle management,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1032,IBM,2002,Nov,Tarian Software,Records Management,Canada,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1033,IBM,2003,Feb,Rational Software Corporation,Software Development,United States,2100000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1034,IBM,2003,May,Think Dynamics,Software,Canada,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1035,IBM,2003,Jul,Information Laboratory,Software,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1036,IBM,2003,Jul,Aptrix,Software,Australia,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1037,IBM,2003,Oct,CrossAccess Corporation,Enterprise Information Integration,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1038,IBM,2003,Nov,"Productivity Solutions, Inc.",Automated Self-Checkout Systems,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1039,IBM,2003,Dec,"Green Pasture Software, Inc.",Content management software,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1040,IBM,2004,Apr,Trigo Technologies,Product information management,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1041,IBM,2004,Apr,Daksh e-Services,BPO Services,India,170000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1042,IBM,2004,Apr,Business Continuity Services unit of Schlumberger,IT Services,France,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1043,IBM,2004,Jun,Candle Corporation,Infrastructure management,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1044,IBM,2004,Jul,Alphablox Corporation,Business Intelligence,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1045,IBM,2004,Jul,Cyanea Systems,Application management software,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1046,IBM,2004,Oct,Venetica,Enterprise Information Integration,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1047,IBM,2004,Nov,Systemcorp ALG Ltd.,Project Portfolio Management (PPM) software,Canada,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1048,IBM,2004,Nov,Liberty Insurance Services,Business process services,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1049,IBM,2004,Dec,Maersk Data and DMdata from Maersk,IT Services,Denmark,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1050,IBM,2004,Dec,KeyMRO,Procurement Services,France,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1051,IBM,2005,Jan,Systems Research & Development,Identity management,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1052,IBM,2005,Mar,Corio,Application Services,United States,182000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1053,IBM,2005,Apr,Ascential Software Corporation,Enterprise Information Integration,United States,1100000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1054,IBM,2005,May,Gluecode Software,Application Server,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1055,IBM,2005,Jun,Meiosys,Application Management,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1056,IBM,2005,Jul,"PureEdge Solutions, Inc.",Electronic Forms,Canada,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1057,IBM,2005,Jul,Isogon Corporation,Asset Management,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1058,IBM,2005,Aug,DWL,Enterprise Information Integration,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1059,IBM,2005,Oct,"DataPower Technology, Inc.",Service Oriented Architecture (SOA),United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1060,IBM,2005,Nov,"iPhrase Systems, Inc.",Information management software,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1061,IBM,2005,Nov,Network Solutions Pvt Ltd,IT Services,India,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1062,IBM,2005,Nov,"Collation, Inc.",Network management,United States,151000000.0,-,-,Mid-Market,1.0,COMPLETED
+1063,IBM,2005,Dec,"Bowstreet, Inc.",Portal-based tools,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1064,IBM,2006,Jan,ARGUS Semiconductor Software From INFICON,Semiconductor Manufacturing software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1065,IBM,2006,Jan,"CIMS Lab, Inc.",IT Financial Management,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1066,IBM,2006,Feb,"Viacore, Inc.",Supply chain optimization,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1067,IBM,2006,Feb,"Micromuse, Inc.",Network management,United States,865000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1068,IBM,2006,Mar,Language Analysis Systems,Identity management,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1069,IBM,2006,May,"BuildForge, Inc.",Software Development,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1070,IBM,2006,May,"Unicorn Solutions, Inc.",Metadata management,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1071,IBM,2006,Jun,Rembo Technology,Installation Software,Switzerland,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1072,IBM,2006,Aug,"Webify Solutions, Inc",Service Oriented Architecture software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1073,IBM,2006,Sep,Global Value Solutions,IT Services,Brazil,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1074,IBM,2006,Oct,DORANA product line from Ubiquity Pty Limited,Asset Management,Australia,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1075,IBM,2006,Oct,MRO Software,Asset Management,United States,740000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1076,IBM,2006,Oct,FileNet Corporation,Content management software,United States,1600000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1077,IBM,2006,Oct,Internet Security Systems (ISS),Information security,United States,1300000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1078,IBM,2006,Oct,Palisades Technology Partners,Management consulting,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1079,IBM,2007,Jan,"Consul Risk Management, Inc.",Information security,Netherlands,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1080,IBM,2007,Feb,Vallent Corporation,Telecommunications Management,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1081,IBM,2007,Mar,Softek Storage Solutions Corporation,Data Mobility,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1082,IBM,2007,Mar,"BlackDot Networks, Inc.",Enterprise Data Consulting,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1083,IBM,2007,Apr,Unicible,IT Services,Switzerland,460000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1084,IBM,2007,Jul,Watchfire Corporation,Security Software Testing,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1085,IBM,2007,Aug,WebDialogs,Web conferencing and communications,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1086,IBM,2007,Aug,DataMirror Corporation,Change Data Capture,Canada,161000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1087,IBM,2007,Sep,"Qinnova, Inc.",Internet Protocol Television (IPTV),Canada,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1088,IBM,2007,Sep,"Princeton Softech, Inc.",Business Intelligence,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1089,IBM,2007,Oct,NovusCG,Storage Consulting and Technology Services,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1090,IBM,2008,Jan,XIV,Enterprise storage,Israel,300000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1091,IBM,2008,Jan,AptSoft Corporation,Business Intelligence,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1092,IBM,2008,Jan,Solid Information Technology,Database software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1093,IBM,2008,Jan,Cognos,Business Intelligence,Canada,5000000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1094,IBM,2008,Jan,Arsenal Digital Solutions,Data backup services,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1095,IBM,2008,Feb,Net Integration Technologies Inc.,Business Server Software,Canada,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1096,IBM,2008,Mar,"Encentuate, Inc.",Enterprise Single Sign-On,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1097,IBM,2008,Apr,Telelogic AB,Enterprise software development,Sweden,845000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1098,IBM,2008,Apr,Diligent Technologies,Data De-duplication,United States,200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1099,IBM,2008,Apr,FilesX,Application Recovery Software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1100,IBM,2008,Apr,InfoDyne Corporation,Data Feed Connectors,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1101,IBM,2008,Jul,Platform Solutions,"Mainframe, System Z technologies",United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1102,IBM,2008,Jul,ILOG,Business Rules Management Systems,France,340000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1103,IBM,2008,Nov,Transitive Corporation,Virtualization Software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1104,IBM,2009,Jan,Outblaze's E-Mail Service Assets,Online messaging and collaboration,Hong Kong,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1105,IBM,2009,May,Exeros Assets,Data Discovery Software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1106,IBM,2009,Jul,SPSS Inc.,Statistical analysis software,United States,1200000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1107,IBM,2009,Jul,Ounce Labs,Source code analysis,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1108,IBM,2009,Sep,RedPill Solutions,Analytics and Optimisation,Singapore,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1109,IBM,2009,Nov,Guardium,Database monitoring and protection,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1110,IBM,2009,Dec,Lombardi,Business Process Management,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1111,IBM,2010,Jan,"National Interest Security Company, LLC",Public sector consulting,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1112,IBM,2010,Feb,Initiate Systems,Data integrity software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1113,IBM,2010,Feb,Intelliden Inc.,Network Automation software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1114,IBM,2010,Mar,Wilshire Credit Corporation Assets,Mortgage Business Processing Services,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1115,IBM,2010,May,Cast Iron Systems,Cloud Integration,United States,190000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1116,IBM,2010,May,Sterling Commerce,Business software integration,United States,1400000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1117,IBM,2010,Jun,Coremetrics,Web Analytics,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1118,IBM,2010,Jul,"BigFix, Inc.",Security and IT automation software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1119,IBM,2010,Jul,Storwize,Data Compression,United States,140000000.0,-,-,Small-Cap,1.0,COMPLETED
+1120,IBM,2010,Aug,Datacap,Data capture and Content Management,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1121,IBM,2010,Aug,Unica Corporation,Marketing planning software,United States,480000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1122,IBM,2010,Sep,OpenPages,Integrated risk management solutions,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1123,IBM,2010,Sep,Netezza,Data warehousing and analytics,United States,1700000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1124,IBM,2010,Sep,BLADE Network Technologies,Networking,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1125,IBM,2010,Oct,PSS Systems,Legal risk management,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1126,IBM,2010,Oct,Clarity Systems,Financial governance,Canada,350000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1127,IBM,2011,Mar,Tririga Inc.,Facility and Real Estate Management,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1128,IBM,2011,Aug,i2 Limited,Intelligence Analytics,United Kingdom,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1129,IBM,2011,Sep,Algorithmics Inc.,Risk Management,Canada,387000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1130,IBM,2011,Oct,Q1 Labs,Security Intelligence,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1131,IBM,2011,Oct,Platform Computing,Cluster and Grid Management Software,Canada,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1132,IBM,2011,Dec,Cúram Software,Smarter Cities,Ireland,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1133,IBM,2011,Dec,DemandTec,Cloud-based Retail Analytics,United States,440000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1134,IBM,2011,Dec,Emptoris,Supply Chain Analytics,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1135,IBM,2012,Jan,Green Hat (software company),Cloud based software testing,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1136,IBM,2012,Jan,Worklight,Software Development Firm,Israel,70000000.0,-,-,Small-Cap,1.0,COMPLETED
+1137,IBM,2012,Apr,Varicent,Compensation and Sales Performance Management Software Solutions,Canada,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1138,IBM,2012,Apr,Vivisimo,Enterprise Search Software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1139,IBM,2012,May,Tealeaf Technology,Customer Experience Analytics Software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1140,IBM,2012,Aug,Texas Memory Systems,Solid State Storage,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1141,IBM,2012,Aug,Kenexa Corporation,Human Capital Solutions,United States,1400000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1142,IBM,2012,Sep,Butterfly Software Ltd.,Data Analysis and Migration Software,United Kingdom,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1143,IBM,2012,Dec,StoredIQ,Big Data Analysis,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1144,IBM,2013,Feb,Star Analytics,Business Analytics,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1145,IBM,2013,Apr,UrbanCode,Software delivery automation,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1146,IBM,2013,Jun,SoftLayer Technologies,Cloud Computing Infrastructure,United States,2000000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1147,IBM,2013,Jul,CSL International,Cloud Computing,Israel,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1148,IBM,2013,Aug,Trusteer,Cyber Security,Israel,1000000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1149,IBM,2013,Sep,Daeja Image Systems,Viewer for document management systems,United Kingdom,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1150,IBM,2013,Oct,The Now Factory,Mobile Networks Big Data Analytics,Ireland,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1151,IBM,2013,Oct,Xtify,In-app mobile messaging and push notification tools,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1152,IBM,2013,Nov,Fiberlink Communications,Mobile Device Management,United States,330000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1153,IBM,2013,Dec,"Aspera, Inc.",Data Transfer Technology,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1154,IBM,2014,Feb,"Cloudant, Inc.",Database-as-a-Service,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1155,IBM,2014,Apr,"Silverpop Systems, Inc.",Behavioral Marketing Automation,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1156,IBM,2014,May,Cognea,Cognitive computing (conversational artificial intelligence platform),United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1157,IBM,2014,Jul,CrossIdeas,Cloud Security (Identity and Access Governance),Italy,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1158,IBM,2014,Aug,Lighthouse Security Group,Cloud Security,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1159,IBM,2015,Mar,AlchemyAPI,"Natural language processing, big data",United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1160,IBM,2015,Mar,Blekko,"Web Search Engine, Cognitive Computing",United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1161,IBM,2015,Apr,Explorys,Healthcare analytics,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1162,IBM,2015,Apr,Phytel,Health management software,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1163,IBM,2015,Jun,Bluebox,Private Cloud as a Service,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1164,IBM,2015,Jul,Compose Inc.,Database as a Service,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1165,IBM,2015,Aug,Merge Healthcare Inc.,Healthcare imaging software,United States,1000000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1166,IBM,2015,Sep,StrongLoop Inc.,Mobile API capabilities,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1167,IBM,2015,Sep,Meteorix LLC,Consulting services for Workday applications,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1168,IBM,2015,Oct,The Weather Company digital assets,"Weather data sources and analytics, related online and mobile products",United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1169,IBM,2015,Nov,"Gravitant, Inc",Cloud brokerage software and cloud management,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1170,IBM,2015,Nov,Cleversafe,Object-based storage software,United States,1309000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1171,IBM,2015,Dec,Clearleap,Cloud-based video management,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1172,IBM,2016,Jan,Iris Analytics,Real time transaction fraud detection,Germany,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1173,IBM,2016,Jan,Ustream,Streaming video,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1174,IBM,2016,Jan,Resource/Ammirati,Digital marketing and creative agency,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1175,IBM,2016,Feb,Aperto AG,Digital marketing and creative agency,Germany,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1176,IBM,2016,Feb,ecx.io AG,Digital marketing and creative agency,Germany,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1177,IBM,2016,Feb,Truven Health Analytics,"Provider of cloud-based healthcare data, analytics and insights",United States,2600000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1178,IBM,2016,Feb,Resilient Systems,"Cyber security, incident response platform",United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1179,IBM,2016,Mar,Optevia,Specialist provider of Microsoft Dynamics CRM based solutions and associated services to the public sector,United Kingdom,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1180,IBM,2016,Mar,Blue Wolf Group LLC,Salesforce systems integrator and professional services,United States,200000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1181,IBM,2016,Jun,EZSource,Application discovery and dashboard visualization,Israel,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1182,IBM,2016,Sep,Promontory Financial Group,Risk management and regulatory compliance,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1183,IBM,2016,Oct,Sanovi Technologies,Hybrid cloud recovery,India,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1184,IBM,2017,Feb,Agile 3 Solutions,Information security,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1185,IBM,2017,May,Verizon – Cloud services,Cloud services,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1186,IBM,2017,May,XCC (division of TIMETOACT),Collaboration software,Germany,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1187,IBM,2017,Sep,Cloudigo,Data Center Company,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1188,IBM,2017,Oct,Vivant Digital,Innovation Consultancy,Australia,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1189,IBM,2018,May,"Armanta, Inc.",Aggregation/analytics software for financial services firms,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1190,IBM,2018,Jun,Oniqua Holdings Pty Ltd.,Intelligent maintenance repair and operations (MRO) solutions,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1191,IBM,2019,Jul,Red Hat,Provider of open source software and solutions,United States,34000000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1192,IBM,2020,Jun,Spanugo,US-based provider of cloud cybersecurity posture management solutions,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1193,IBM,2020,Jul,WDG,IBM to Acquire WDG Automation to Advance AI-Infused Automation Capabilities for Enterprises,Brazil,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1194,IBM,2020,Nov,TruQua Enterprises,Acquisition enhances IBM's expertise in migrating financial platforms to SAP,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1195,IBM,2020,Nov,Instana,Acquisition continues to advance IBM's Hybrid Cloud and AIOps strategy with Application Performance Management and enterprise Observability capabilities,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1196,IBM,2020,Dec,Expertus Technologies Inc.,Digital payments provider,Canada,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1197,IBM,2020,Dec,Nordcloud,Acquisition enhances IBM's Hybrid Cloud Consulting capabilities,Finland,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1198,IBM,2021,Jan,7Summits,Acquisition drives digital transformations for Salesforce clients,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1199,IBM,2021,Jan,Taos,Acquisition to expand hybrid cloud consulting services,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1200,IBM,2021,Apr,myInvenio,Acquisition to help Organizations Use AI-powered Automation to Better Streamline Business Processes,Italy,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1201,IBM,2021,May,Waeg,Acquisition to expand Salesforce consulting services,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1202,IBM,2021,Jun,Turbonomic,Acquisition to expand AAIOps (the use of AI to automate IT Operations) to application and infrastructure observability,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1203,IBM,2021,Jul,BoxBoat Technologies,DevOps consultancy and enterprise Kubernetes certified service provider,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1204,IBM,2021,Jul,"Bluetab Solutions Group, S.L.",Hybrid cloud data and analytics consulting,Spain,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1205,ADOBE,1990,Mar,Emerald City Software,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1206,ADOBE,1990,Jun,BluePoint Technologies,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1207,ADOBE,1992,Jun,LaserTools-Language Tech,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1208,ADOBE,1992,Jun,OCR Systems,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1209,ADOBE,1994,Aug,Aldus Corporation,-,-,437676000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1210,ADOBE,1994,Sep,LaserTools,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1211,ADOBE,1995,-,Photoshop,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1212,ADOBE,1995,Oct,Frame Technology,-,-,566567000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1213,ADOBE,1996,May,Ares Software,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1214,ADOBE,1997,Mar,Sandcastle,-,-,3500000.0,-,-,Small-Cap,1.0,COMPLETED
+1215,ADOBE,1997,Sep,HyWay Ferranti,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1216,ADOBE,1997,Sep,DigiDox,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1217,ADOBE,1999,Jan,GoLive Systems,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1218,ADOBE,2001,Dec,Fotiva,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1219,ADOBE,2002,Apr,Accelio,-,-,72000000.0,-,-,Small-Cap,1.0,COMPLETED
+1220,ADOBE,2003,May,Syntrillium Software,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1221,ADOBE,2003,Nov,Yellow Dragon Software-Tech,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1222,ADOBE,2004,May,"Q-Link Technologies, Inc.",-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1223,ADOBE,2004,Dec,OKYZ,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1224,ADOBE,2005,Dec,Macromedia,-,-,3573000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1225,ADOBE,2005,Dec,Navisware,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1226,ADOBE,2006,Apr,Trade and Technologies France,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1227,ADOBE,2006,Jun,Pixmantec,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1228,ADOBE,2006,Sep,InterAKT,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1229,ADOBE,2006,Oct,Serious Magic Inc.,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1230,ADOBE,2007,May,Scene7,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1231,ADOBE,2007,Oct,Virtual Ubiquity,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1232,ADOBE,2008,Sep,YaWah,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1233,ADOBE,2009,Aug,Business Catalyst,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1234,ADOBE,2009,Sep,Omniture,-,-,1800000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1235,ADOBE,2010,Jul,Day Software,-,-,240000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1236,ADOBE,2011,Jan,Demdex,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1237,ADOBE,2011,Jul,EchoSign,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1238,ADOBE,2011,Sep,Iridas Technology,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1239,ADOBE,2011,Oct,Nitobi,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1240,ADOBE,2011,Oct,Typekit,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1241,ADOBE,2011,Nov,Auditude,-,-,120000000.0,-,-,Small-Cap,1.0,COMPLETED
+1242,ADOBE,2011,Nov,Efficient Frontier Technology,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1243,ADOBE,2012,Dec,Behance Inc.,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1244,ADOBE,2013,Jul,Neolane,-,-,600000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1245,ADOBE,2013,Jul,Satellite,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1246,ADOBE,2014,Sep,Aviary,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1247,ADOBE,2015,Jan,Fotolia,-,-,800000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1248,ADOBE,2015,Jun,Mixamo,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1249,ADOBE,2016,May,Livefyre,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1250,ADOBE,2016,Nov,TubeMogul,-,-,540000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1251,ADOBE,2018,Apr,Sayspring,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1252,ADOBE,2018,Apr,Uru,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1253,ADOBE,2018,May,Magento,-,-,1680000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1254,ADOBE,2018,Sep,Marketo,-,-,4750000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1255,ADOBE,2019,Jan,Allegorithmic,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1256,ADOBE,2020,Nov,Workfront,-,-,1500000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1257,FACEBOOK,2005,Aug,facebook.com domain name,-,United States,200000.0,-,name change from Thefacebook.com,Small-Cap,1.0,COMPLETED
+1258,FACEBOOK,2007,Jul,Parakey,-,United States,151000000.0,-,Facebook Mobile,Mega-Deal,1.0,COMPLETED
+1259,FACEBOOK,2008,Jun,ConnectU,-,United States,31000000.0,-,-,Small-Cap,1.0,COMPLETED
+1260,FACEBOOK,2009,Aug,FriendFeed,-,United States,47500000.0,-,-,Small-Cap,1.0,COMPLETED
+1261,FACEBOOK,2010,Feb,Octazen,-,Malaysia,151000000.0,-,Websluths,Mega-Deal,1.0,COMPLETED
+1262,FACEBOOK,2010,Mar,Divvyshot,-,United States,151000000.0,-,Facebook Photos,Mega-Deal,1.0,COMPLETED
+1263,FACEBOOK,2010,May,Friendster patents,-,United States,40000000.0,-,-,Small-Cap,1.0,COMPLETED
+1264,FACEBOOK,2010,May,ShareGrove,-,United States,151000000.0,-,Facebook Groups,Mega-Deal,1.0,COMPLETED
+1265,FACEBOOK,2010,Jul,Zenbe,-,United States,151000000.0,-,Facebook Messenger,Mega-Deal,1.0,COMPLETED
+1266,FACEBOOK,2010,Jul,Nextstop,-,United States,2500000.0,-,-,Small-Cap,1.0,COMPLETED
+1267,FACEBOOK,2010,Aug,Chai Labs,-,United States,10000000.0,-,-,Small-Cap,1.0,COMPLETED
+1268,FACEBOOK,2010,Aug,Hot Potato,-,United States,10000000.0,-,Facebook Places,Small-Cap,1.0,COMPLETED
+1269,FACEBOOK,2010,Oct,Drop.io,-,United States,10000000.0,-,-,Small-Cap,1.0,COMPLETED
+1270,FACEBOOK,2010,Nov,FB.com domain name,-,United States,8500000.0,-,-,Small-Cap,1.0,COMPLETED
+1271,FACEBOOK,2011,Jan,Rel8tion,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1272,FACEBOOK,2011,Mar,Beluga,-,United States,151000000.0,-,Facebook Messenger,Mega-Deal,1.0,COMPLETED
+1273,FACEBOOK,2011,Mar,Snaptu,-,Ireland,70000000.0,-,Mobile,Small-Cap,1.0,COMPLETED
+1274,FACEBOOK,2011,Mar,RecRec,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1275,FACEBOOK,2011,Apr,DayTum,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1276,FACEBOOK,2011,Jun,Sofa,-,Netherlands,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1277,FACEBOOK,2011,Jun,MailRank,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1278,FACEBOOK,2011,Aug,Push Pop Press,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1279,FACEBOOK,2011,Oct,Friend.ly,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1280,FACEBOOK,2011,Nov,Strobe,-,United States,151000000.0,-,Mobile engineering team,Mega-Deal,1.0,COMPLETED
+1281,FACEBOOK,2011,Dec,Gowalla,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1282,FACEBOOK,2012,Feb,Caffeinatedmind,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1283,FACEBOOK,2012,Apr,Instagram,-,United States,1000000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1284,FACEBOOK,2012,Apr,Tagtile,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1285,FACEBOOK,2012,May,Glancee,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1286,FACEBOOK,2012,May,Lightbox.com,-,United Kingdom,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1287,FACEBOOK,2012,May,Karma,-,United States,151000000.0,-,Facebook Gifts,Mega-Deal,1.0,COMPLETED
+1288,FACEBOOK,2012,Jun,Face.com,-,Ireland,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+1289,FACEBOOK,2012,Jul,Spool,-,United States,151000000.0,-,Mobile engineering team,Mega-Deal,1.0,COMPLETED
+1290,FACEBOOK,2012,Jul,Acrylic Software,-,Canada,151000000.0,-,Facebook's design team,Mega-Deal,1.0,COMPLETED
+1291,FACEBOOK,2012,Aug,Threadsy,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1292,FACEBOOK,2013,Feb,Atlas Solutions,-,United States,100000000.0,-,-,Small-Cap,1.0,COMPLETED
+1293,FACEBOOK,2013,Mar,osmeta,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1294,FACEBOOK,2013,Mar,Storylane (Mixtent),-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1295,FACEBOOK,2013,Mar,Hot Studio,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1296,FACEBOOK,2013,Apr,Spaceport,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1297,FACEBOOK,2013,Apr,Parse,-,United States,85000000.0,-,-,Small-Cap,1.0,COMPLETED
+1298,FACEBOOK,2013,Jul,Monoidics,-,United Kingdom,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1299,FACEBOOK,2013,Aug,Jibbigo,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1300,FACEBOOK,2013,Oct,Onavo,-,Ireland,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1301,FACEBOOK,2013,Dec,SportStream,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1302,FACEBOOK,2014,Jan,Little Eye Labs,-,India,15000000.0,-,-,Small-Cap,1.0,COMPLETED
+1303,FACEBOOK,2014,Jan,Branch,-,United States,15000000.0,-,-,Small-Cap,1.0,COMPLETED
+1304,FACEBOOK,2014,Feb,WhatsApp,-,United States,19000000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1305,FACEBOOK,2014,Mar,Oculus VR,-,United States,2000000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1306,FACEBOOK,2014,Mar,Ascenta,-,United Kingdom,20000000.0,-,-,Small-Cap,1.0,COMPLETED
+1307,FACEBOOK,2014,Apr,ProtoGeo Oy,-,Finland,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1308,FACEBOOK,2014,Aug,PrivateCore,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1309,FACEBOOK,2014,Aug,LiveRail,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1310,FACEBOOK,2014,Aug,WaveGroup Sound,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1311,FACEBOOK,2015,Jan,Wit.ai,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1312,FACEBOOK,2015,Jan,Quickfire Networks,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1313,FACEBOOK,2015,Mar,"TheFind, Inc.",-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1314,FACEBOOK,2015,May,Surreal Vision,-,United Kingdom,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1315,FACEBOOK,2015,Oct,Endaga,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1316,FACEBOOK,2015,Jul,Pebbles,-,Ireland,60000000.0,-,-,Small-Cap,1.0,COMPLETED
+1317,FACEBOOK,2016,Mar,MSQRD (Masquerade),-,Belarus,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1318,FACEBOOK,2016,May,Two Big Ears,-,United Kingdom,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1319,FACEBOOK,2016,Sep,Nascent Objects,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1320,FACEBOOK,2016,Oct,Infiniled,-,Ireland,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1321,FACEBOOK,2016,Nov,CrowdTangle,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1322,FACEBOOK,2016,Nov,Faciometrics,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1323,FACEBOOK,2016,Nov,Zurich Eye,-,-,151000000.0,-,Oculus VR,Mega-Deal,1.0,COMPLETED
+1324,FACEBOOK,2017,Jul,Ozlo,-,United States,151000000.0,-,Facebook Messenger,Mega-Deal,1.0,COMPLETED
+1325,FACEBOOK,2017,Aug,Fayteq AG,-,-,151000000.0,-,Facebook Live,Mega-Deal,1.0,COMPLETED
+1326,FACEBOOK,2017,Oct,tbh,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1327,FACEBOOK,2018,Jan,Confirm,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1328,FACEBOOK,2018,Jul,Bloomsbury AI,-,United Kingdom,30000000.0,-,-,Small-Cap,1.0,COMPLETED
+1329,FACEBOOK,2018,Jul,Redkix,-,Ireland,100000000.0,-,Workplace by Facebook,Small-Cap,1.0,COMPLETED
+1330,FACEBOOK,2018,Aug,Vidpresso,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1331,FACEBOOK,2018,Nov,Dreambit,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1332,FACEBOOK,2019,Feb,Chainspace,-,United Kingdom,151000000.0,-,Facebook Blockchain,Mega-Deal,1.0,COMPLETED
+1333,FACEBOOK,2019,Feb,GrokStyle,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1334,FACEBOOK,2019,Sep,Servicefriend,-,Ireland,151000000.0,-,Novi,Mega-Deal,1.0,COMPLETED
+1335,FACEBOOK,2019,Sep,CTRL-labs,-,United States,151000000.0,-,Facebook Reality Labs,Mega-Deal,1.0,COMPLETED
+1336,FACEBOOK,2019,Sep,Packagd,-,United States,151000000.0,-,List of Facebook features § Marketplace,Mega-Deal,1.0,COMPLETED
+1337,FACEBOOK,2019,Nov,Beat Games,-,Czech Republic,151000000.0,-,Oculus Studio,Mega-Deal,1.0,COMPLETED
+1338,FACEBOOK,2019,Dec,PlayGiga,-,Spain,70000000.0,-,-,Small-Cap,1.0,COMPLETED
+1339,FACEBOOK,2020,Feb,Sanzaru Games,-,United States,151000000.0,-,Oculus Studio,Mega-Deal,1.0,COMPLETED
+1340,FACEBOOK,2020,Feb,Scape Technologies,-,United Kingdom,40000000.0,-,Facebook Reality Labs,Small-Cap,1.0,COMPLETED
+1341,FACEBOOK,2020,May,Giphy,-,United States,400000000.0,-,Instagram,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1342,FACEBOOK,2020,Jun,Mapillary,-,Sweden,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1343,FACEBOOK,2020,Jun,Ready at Dawn,-,United States,151000000.0,-,Oculus Studio,Mega-Deal,1.0,COMPLETED
+1344,FACEBOOK,2020,Sep,Lemnis Technologies,-,Singapore,151000000.0,-,Facebook Reality Labs,Mega-Deal,1.0,COMPLETED
+1345,FACEBOOK,2020,Nov,Kustomer,-,United States,1000000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1346,FACEBOOK,2021,Apr,Downpour Interactive,-,United States,151000000.0,-,Oculus Studio,Mega-Deal,1.0,COMPLETED
+1347,FACEBOOK,2021,Jun,Unit 2 Games,-,United Kingdom,151000000.0,-,Facebook Gaming,Mega-Deal,1.0,COMPLETED
+1348,FACEBOOK,2021,Jun,BigBox VR,-,United States,151000000.0,-,Oculus Studio,Mega-Deal,1.0,COMPLETED
+1349,FACEBOOK,2021,Oct,AI.Reverie,-,United States,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1350,REDHAT,1999,Jul,Atomic Vision,Website design,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1351,REDHAT,1999,Jul,Delix Computer GmbH-Linux Div,Computers and software,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1352,REDHAT,2000,Jan,Cygnus Solutions Limited,"gcc, gdb, binutils",-,674444000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1353,REDHAT,2000,May,Bluecurve,IT management software,-,37107000.0,-,-,Small-Cap,1.0,COMPLETED
+1354,REDHAT,2000,Aug,Wirespeed Communications,Internet software,-,83963000.0,-,-,Small-Cap,1.0,COMPLETED
+1355,REDHAT,2000,Aug,Hell's Kitchen Systems,Internet software,-,85624000.0,-,-,Small-Cap,1.0,COMPLETED
+1356,REDHAT,2000,Sep,C2Net,Internet software,-,39983000.0,-,-,Small-Cap,1.0,COMPLETED
+1357,REDHAT,2001,Feb,Akopia,Ecommerce websites,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1358,REDHAT,2001,Feb,Planning Technologies,Consulting,-,47000000.0,-,-,Small-Cap,1.0,COMPLETED
+1359,REDHAT,2002,Feb,ArsDigita,Assets and employees,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1360,REDHAT,2002,Oct,NOCpulse,Software,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1361,REDHAT,2003,Dec,Sistina Software,"GFS, LVM, DM",-,31000000.0,-,-,Small-Cap,1.0,COMPLETED
+1362,REDHAT,2004,Sep,The Netscape Security-Certain Asts,Certain assets,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1363,REDHAT,2006,Jun,JBoss,Middleware,-,420000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1364,REDHAT,2007,Jun,MetaMatrix,Information management software,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1365,REDHAT,2007,Jun,Mobicents,Telecommunications software,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1366,REDHAT,2008,Mar,Amentra,Consulting,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1367,REDHAT,2008,Jun,Identyx,Software,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1368,REDHAT,2008,Sep,Qumranet,"KVM, RHEV, SPICE",-,107000000.0,-,-,Small-Cap,1.0,COMPLETED
+1369,REDHAT,2010,Nov,Makara,Enterprise software,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1370,REDHAT,2011,Oct,Gluster,GlusterFS,-,136000000.0,-,-,Small-Cap,1.0,COMPLETED
+1371,REDHAT,2012,Jun,FuseSource,Enterprise integration software,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1372,REDHAT,2012,Aug,Polymita,Enterprise software,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1373,REDHAT,2012,Dec,ManageIQ,Orchestration software,-,104000000.0,-,-,Small-Cap,1.0,COMPLETED
+1374,REDHAT,2014,Jan,The CentOS Project,CentOS,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1375,REDHAT,2014,Apr,Inktank Storage,Ceph,-,175000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1376,REDHAT,2014,Jun,eNovance,OpenStack Integration Services,-,95000000.0,-,-,Small-Cap,1.0,COMPLETED
+1377,REDHAT,2014,Sep,FeedHenry,Mobile Application Platform,-,82000000.0,-,-,Small-Cap,1.0,COMPLETED
+1378,REDHAT,2015,Oct,Ansible,"Configuration management, Orchestration engine",-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1379,REDHAT,2016,Jun,3scale,API management,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1380,REDHAT,2017,May,Codenvy,Cloud software,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1381,REDHAT,2017,Jul,Permabit,Data deduplication and compression,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1382,REDHAT,2018,Jan,CoreOS,Management of containerized application:Container Linux by CoreOS,-,250000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1383,REDHAT,2018,Nov,NooBaa,Cloud storage technology,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1384,REDHAT,2021,Jan,StackRox,Container management software,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1385,DISNEY,1957,-,"Disneyland, Inc.",-,-,562500.0,-,-,Small-Cap,1.0,COMPLETED
+1386,DISNEY,1960,-,"Disneyland, Inc.",-,-,7500000.0,-,-,Small-Cap,1.0,COMPLETED
+1387,DISNEY,1965,-,WED Enterprisespark designing and engineering division,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1388,DISNEY,1982,-,Retlaw Enterprisesparks transportation division,-,-,42600000.0,-,-,Small-Cap,1.0,COMPLETED
+1389,DISNEY,1987,-,Wrather Corporation,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1390,DISNEY,1988,-,Wrather Corporation,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1391,DISNEY,1996,Feb,Capital Cities/ABC Inc.,-,-,19000000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1392,DISNEY,1998,Apr,Starwave,-,-,400000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1393,DISNEY,1999,Jul,Infoseek,-,-,1770000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1394,DISNEY,2001,Oct,Fox Family Worldwide,-,-,2900000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1395,DISNEY,2004,Feb,The Muppets and Bear in the Big Blue House,-,-,75000000.0,-,-,Small-Cap,1.0,COMPLETED
+1396,DISNEY,2006,May,Pixar,-,-,7400000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1397,DISNEY,2008,Dec,Jetix Europe,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1398,DISNEY,2009,Apr,Hulu,-,-,151000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1399,DISNEY,2009,Dec,Marvel,-,-,4000000000.0,-,-,Mega-Deal,1.0,COMPLETED
+1400,DISNEY,2012,Dec,Lucasfilm,-,-,4000000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1401,DISNEY,2014,-,Maker Studios,-,-,450000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1402,DISNEY,2017,-,BAMTech,-,-,2580000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1403,DISNEY,2019,Mar,21st Century Fox,-,-,71300000000.0,-,-,Mega-Deal,1.0,LAPSED_REGULATORY_BLOCK
+1404,CITRIX,1997,Sep,DataPac Australasia,Server-based computing,Australia,151000000.0,-,Citrix WinFrame,Mega-Deal,1.0,COMPLETED
+1405,CITRIX,1998,Mar,Insignia NTrigue,Server-based computing and consumer electronics,United States,151000000.0,-,Citrix WinFrame,Mega-Deal,1.0,COMPLETED
+1406,CITRIX,1998,Jun,APM,Java developer,-,151000000.0,-,Citrix WinFrame and MetaFrame,Mega-Deal,1.0,COMPLETED
+1407,CITRIX,1998,Jul,VDOnet,Internet film broadcasting,Israel,151000000.0,-,Video/audio server technology,Mega-Deal,1.0,COMPLETED
+1408,CITRIX,1999,Jul,Viewsoft,Software developer for web-based application,United States,151000000.0,-,Application Linking and Embedding (ALE) software,Mega-Deal,1.0,COMPLETED
+1409,CITRIX,2000,Feb,Innovex Group,Internet consulting company,United States,151000000.0,-,Citrix Worldwide Customer Service,Mega-Deal,1.0,COMPLETED
+1410,CITRIX,2001,May,Sequoia Software Corporation,XML-based portal software developer,United States,151000000.0,-,Citrix NFuse and Metaframe,Mega-Deal,1.0,COMPLETED
+1411,CITRIX,2004,Mar,Expertcity,GoToMyPC and GoToMeeting platform developer,United States,151000000.0,-,SaaS,Mega-Deal,1.0,COMPLETED
+1412,CITRIX,2004,Dec,Net6,SSL VPN technology,United States,151000000.0,-,SSL Access Gateway and Citrix’s MetaFrame Access Suite,Mega-Deal,1.0,COMPLETED
+1413,CITRIX,2005,Aug,Netscaler,Application acceleration hardware vendor,United States,151000000.0,-,Citrix NetScaler,Mega-Deal,1.0,COMPLETED
+1414,CITRIX,2005,Nov,Teros,Firewall vendor,United States,151000000.0,-,Citrix NetScaler Application Firewall,Mega-Deal,1.0,COMPLETED
+1415,CITRIX,2006,May,Reflectent,Edgesight desktop applications performance-monitoring software developer.,United States,151000000.0,-,"Citrix Web applications performance-measuring software, core client-server applications, Presentation Server",Mega-Deal,1.0,COMPLETED
+1416,CITRIX,2006,Aug,Orbital Data,WAN optimization,United States,151000000.0,-,Citrix WANScaler,Mega-Deal,1.0,COMPLETED
+1417,CITRIX,2007,Jan,Ardence Inc.,Server provisioning software developer,United States,151000000.0,-,"Citrix’s Management Systems Group, Provisioning Server",Mega-Deal,1.0,COMPLETED
+1418,CITRIX,2007,Mar,thinGenius,Load testing software,United States,151000000.0,-,Presentation Server and virtual software delivery,Mega-Deal,1.0,COMPLETED
+1419,CITRIX,2007,Feb,Aurema]],E-commerce,Australia,151000000.0,-,Greater support for Presentation Server running on Microsoft Longhorn Server,Mega-Deal,1.0,COMPLETED
+1420,CITRIX,2007,Jun,Caymas Systems,Identity-based access control,United States,151000000.0,-,Citrix SSL VPN (enhanced),Mega-Deal,1.0,COMPLETED
+1421,CITRIX,2007,Sep,QuickTree,XML security,United States,151000000.0,-,"NetScaler application-acceleration platform, WANScaler WAN-optimization gear, and Citrix Access Gateway SSL VPN device",Mega-Deal,1.0,COMPLETED
+1422,CITRIX,2007,Oct,XenSource,Desktop and server virtualization,-,151000000.0,-,Desktop and server virtualization. XenSource became part of Citrix’s Virtualization & Management Division.,Mega-Deal,1.0,COMPLETED
+1423,CITRIX,2008,May,sepagoPROFILE,Profile management technology developer,Germany,151000000.0,-,"Citrix XenDesktop, XenApp, and User Profile Manager",Mega-Deal,1.0,COMPLETED
+1424,CITRIX,2008,Mar,Deterministics Network,Software-based scalable secure network acceleration and bandwidth management,United States,151000000.0,-,Citrix Deterministics Network,Mega-Deal,1.0,COMPLETED
+1425,CITRIX,2009,-,Vidsoft,High definition video streaming,Germany,151000000.0,-,"HDFaces within GoToMeeting, GoToWebinar, and GoToTraining",Mega-Deal,1.0,COMPLETED
+1426,CITRIX,2008,Nov,Vapps,High definition audio conference call equipment,United States,151000000.0,-,GoToMeeting,Mega-Deal,1.0,COMPLETED
+1427,CITRIX,2010,Feb,Paglo Labs,SaaS-based IT management,United States,151000000.0,-,GoToManage,Mega-Deal,1.0,COMPLETED
+1428,CITRIX,2010,Aug,VMLogix Inc.,Virtualization automation and management,United States,151000000.0,-,XenServer,Mega-Deal,1.0,COMPLETED
+1429,CITRIX,2011,Feb,Netviewer,SaaS vendor in collaboration and IT services,Germany,151000000.0,-,Citrix’s online services division,Mega-Deal,1.0,COMPLETED
+1430,CITRIX,2011,Feb,EMS-Cortex,Cloud services provisioning and management,New Zealand,151000000.0,-,"XenApp, Cloud Portal Services Manager",Mega-Deal,1.0,COMPLETED
+1431,CITRIX,2011,May,Kaviza,Virtual desktop infrastructure (VDI) developer,United States,151000000.0,-,VDI-in-a-box,Mega-Deal,1.0,COMPLETED
+1432,CITRIX,2011,Jul,Cloud.com,Cloud computing,United States,151000000.0,-,"Citrix CloudPlatform OpenStack, open source cloud stack",Mega-Deal,1.0,COMPLETED
+1433,CITRIX,2011,Aug,RingCube,Personalized virtual desktop,United States,151000000.0,-,XenDesktop,Mega-Deal,1.0,COMPLETED
+1434,CITRIX,2011,Oct,ShareFile,Enterprise file-sharing solution,United States,151000000.0,-,ShareFile,Mega-Deal,1.0,COMPLETED
+1435,CITRIX,2011,Oct,App-DNA,Software migration,-,151000000.0,-,Citrix Desktop Transformation Model,Mega-Deal,1.0,COMPLETED
+1436,CITRIX,2012,Feb,Apere,Network security,United States,151000000.0,-,"Software as a service (SaaS), Single sign-on Security (SSO)",Mega-Deal,1.0,COMPLETED
+1437,CITRIX,2012,Apr,Podio,Cloud-based social network for businesses,Denmark,151000000.0,-,GoTo cloud services,Mega-Deal,1.0,COMPLETED
+1438,CITRIX,2012,May,Virtual Computer,Virtual desktop technology,United States,151000000.0,-,XenClient,Mega-Deal,1.0,COMPLETED
+1439,CITRIX,2012,Jul,Bytemobile,Mobile data and video optimization,United States,151000000.0,-,NetScaler,Mega-Deal,1.0,COMPLETED
+1440,CITRIX,2012,Sep,Beetil,Cloud-based service desk technology provider,New Zealand,151000000.0,-,GoToAssist,Mega-Deal,1.0,COMPLETED
+1441,CITRIX,2013,Jan,Zenprise,Mobile device management,United States,151000000.0,-,XenMobile,Mega-Deal,1.0,COMPLETED
+1442,CITRIX,2013,Sep,Byte Squared,iPad document editing,-,151000000.0,-,ShareFile,Mega-Deal,1.0,COMPLETED
+1443,CITRIX,2013,Dec,Skytide,iPad document editing,-,151000000.0,-,ByteMobile,Mega-Deal,1.0,COMPLETED
+1444,CITRIX,2014,Jan,FrameHawk,Mobile delivery of virtual desktop,United States,151000000.0,-,HDX technology for XenApp and XenDesktop,Mega-Deal,1.0,COMPLETED
+1445,CITRIX,2014,May,ScaleXtreme,Application management,United States,151000000.0,-,Workspace Services,Mega-Deal,1.0,COMPLETED
+1446,CITRIX,2014,Aug,Virtual,Android and IOS virtualization,United States,151000000.0,-,Enterprise mobility products,Mega-Deal,1.0,COMPLETED
+1447,CITRIX,2014,Oct,RightSignature,Online signing tools,United States,151000000.0,-,ShareFile,Mega-Deal,1.0,COMPLETED
+1448,CITRIX,2014,Nov,Solid Instance,Microsoft Windows virtual application delivery,United States,151000000.0,-,Virtual desktop delivery,Mega-Deal,1.0,COMPLETED
+1449,CITRIX,2014,Dec,Octoblu,Networking,United States,151000000.0,-,Citrix Octoblu,Mega-Deal,1.0,COMPLETED
+1450,CITRIX,2015,Jan,Sanbolic,Storage virtualization,United States,151000000.0,-,Melio,Mega-Deal,1.0,COMPLETED
+1451,CITRIX,2015,Apr,Grasshopper,Telephone services,United States,151000000.0,-,"GoToMeeting, GoToTraining, GoToWebinar, ShareFile, and OpenVoice",Mega-Deal,1.0,COMPLETED
+1452,CITRIX,2016,Sep,Norskale,UEM and application performance optimization,France,151000000.0,-,"XenApp, XenDesktop",Mega-Deal,1.0,COMPLETED
+1453,CITRIX,2017,Jan,Unidesk,-,United States,151000000.0,-,"XenApp, XenDesktop",Mega-Deal,1.0,COMPLETED
+1454,CITRIX,2018,Feb,Cedexis,Intelligent traffic management,France,151000000.0,-,Citrix ITM,Mega-Deal,1.0,COMPLETED
+1455,CITRIX,2021,Mar,Wrike,Project management,United States,151000000.0,-,Citrix Workspace,Mega-Deal,1.0,COMPLETED
