@@ -31,7 +31,7 @@ class MAProductDataPipeline:
         median_price = df['Acquisition Price'].median()
         df['Acquisition Price'] = df['Acquisition Price'].fillna(median_price)
 
-        # 3. Feature Derivation: Add metrics to assess M&A risk profiles
+       
        # 3. Feature Derivation: Add metrics to assess M&A risk profiles
         df['Deal_Scale_Tier'] = pd.qcut(df['Acquisition Price'].rank(method='first'), q=3, labels=['Small-Cap', 'Mid-Market', 'Mega-Deal'])
         # Regulatory Exposure Score (Based on Sector Congestion)
